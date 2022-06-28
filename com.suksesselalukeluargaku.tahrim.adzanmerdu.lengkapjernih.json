@@ -1,0 +1,185 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "x",
+    "main_ads_intertitial": "x",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 2,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TAHRIM",
+    "image": "file:///android_asset/image/THA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "ADZAN DAN PUJIAN",
+      "image": "file:///android_asset/image/THB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "ADZAN DAN PUJIAN",
+    "title": "ADZAN",
+    "image": "file:///android_asset/image/THB.jpg",
+    "link_mp3": "mp3/ADZDU.mp3",
+    "duration": "203",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM SUBUH PANJANG",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMSBUHPNJANG.mp3",
+      "duration": "1078",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM SUBUH 2",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMSBUH1.mp3",
+      "duration": "315",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM SUBUH 1",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMSBUH.mp3",
+      "duration": "498",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 5",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMGHRB4.mp3",
+      "duration": "353",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 4",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMGHRB3.mp3",
+      "duration": "478",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 3",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMGHRB2.mp3",
+      "duration": "291",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 2",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMGHRB1.mp3",
+      "duration": "373",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "TAHRIM",
+      "title": "TAHRIM 1",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/THMGHRB.mp3",
+      "duration": "374",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "ADZAN",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/ADZDU1.mp3",
+      "duration": "282",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "ADZAN SUBUH",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/ADZSBHDU.mp3",
+      "duration": "221",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "ADZAN SUBUH",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/ADZSBHDU1.mp3",
+      "duration": "252",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "ALLAHUMA ANTA SALAM",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/PJALLAHUMAANTASLAMTH.mp3",
+      "duration": "246",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "SHOLAWAT ASYGHIL",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/PJSHLWTASYGHLTH.mp3",
+      "duration": "151",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "SHOLAWAT NARYAH",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/PJSHTNARRYAHTH.mp3",
+      "duration": "643",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "YA MUHAIMIN YA SALAM",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/PJYAMUHAIMINUYSLAMTH.mp3",
+      "duration": "180",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "ADZAN DAN PUJIAN",
+      "title": "SHOLAWAT BURDAH",
+      "image": "file:///android_asset/image/THB.jpg",
+      "link_mp3": "mp3/PKSHLWTBURDHTH.mp3",
+      "duration": "187",
+      "lyrics": ""
+    }
+  ]
+}
