@@ -1,0 +1,185 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "x",
+    "main_ads_intertitial": "x",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 2,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "MUROTTAL",
+    "image": "file:///android_asset/image/MSMILA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT",
+      "image": "file:///android_asset/image/MSMILB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "MUROTTAL",
+    "title": "SURAH AN NISA",
+    "image": "file:///android_asset/image/MSMILA.jpg",
+    "link_mp3": "mp3/9MSSRTANNISAMIL.mp3",
+    "duration": "1014",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "MUROTTAL",
+      "title": "SURAH LUQMAN",
+      "image": "file:///android_asset/image/MSMILA.jpg",
+      "link_mp3": "mp3/8MSSURATLUQMANMIL.mp3",
+      "duration": "722",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "MUROTTAL",
+      "title": "SURAH MARYAM",
+      "image": "file:///android_asset/image/MSMILA.jpg",
+      "link_mp3": "mp3/7MSSRATMARYMMIL.mp3",
+      "duration": "1107",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "MUROTTAL",
+      "title": "SURAH YUSUF",
+      "image": "file:///android_asset/image/MSMILA.jpg",
+      "link_mp3": "mp3/6MSSRATYSUFMIL.mp3",
+      "duration": "3240",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "MUROTTAL",
+      "title": "AYAT KURSI",
+      "image": "file:///android_asset/image/MSMILA.jpg",
+      "link_mp3": "mp3/5MSAYTKURSIMIL.mp3",
+      "duration": "317",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "MUROTTAL",
+      "title": "AL IKHLAS",
+      "image": "file:///android_asset/image/MSMILA.jpg",
+      "link_mp3": "mp3/4MSALIKHLASMIL.mp3",
+      "duration": "16",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "MUROTTAL",
+      "title": "AL FALAQ",
+      "image": "file:///android_asset/image/MSMILA.jpg",
+      "link_mp3": "mp3/3MSALFLAQMIL.mp3",
+      "duration": "26",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "MUROTTAL",
+      "title": "AN NAS",
+      "image": "file:///android_asset/image/MSMILA.jpg",
+      "link_mp3": "mp3/2MSANNASMIL.mp3",
+      "duration": "34",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "MUROTTAL",
+      "title": "AL FATIHAH",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/1MSALFTIHAHMIL.mp3",
+      "duration": "62",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "SHOLAWAT",
+      "title": "YA RASULALLAH",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMANTAYARASULALLAHMIL.mp3",
+      "duration": "238",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "SHOLAWAT",
+      "title": "LAA ILLAHA ILALLAH",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMLAAILLAAHAILLALLAHMIL.mp3",
+      "duration": "307",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLAWAT ASYGHI",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMSHLWATASYGHILMIL.mp3",
+      "duration": "275",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "SHOLAWAT",
+      "title": "SHOLAWAT JAMALUKUM",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMSHLWTAJAMALUKUMMIL.mp3",
+      "duration": "270",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "SHOLAWAT",
+      "title": "SUBHANALLAH",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMSUBHNALLAHMIL.mp3",
+      "duration": "243",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "SHOLAWAT",
+      "title": "YA BADROTIM",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMYABADROTIMMIL.mp3",
+      "duration": "301",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "SHOLAWAT",
+      "title": "YA MAULANA YA ALLAH",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMYAMAULANAYALLAHMIL.mp3",
+      "duration": "225",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "SHOLAWAT",
+      "title": "YA HANANA",
+      "image": "file:///android_asset/image/MSMILB.jpg",
+      "link_mp3": "mp3/SMYHANANAMIL.mp3",
+      "duration": "271",
+      "lyrics": ""
+    }
+  ]
+}
