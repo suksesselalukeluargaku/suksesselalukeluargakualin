@@ -1,0 +1,130 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "backup_ads_banner":"qwerty1234",
+      "backup_ads_intertitial":"qwerty1234",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "MUROTTAL",
+      "image": "file:///android_asset/image/MRT.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MUROTTAL",
+      "title": "Surah Ruqyah",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/MRTRUQYAHBUM.mp3",
+      "duration": "1554",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "MUROTTAL",
+      "title": "Ayat Kursi",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/MRTAYATKURSIBUMA.mp3",
+      "duration": "693",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "MUROTTAL",
+      "title": "Surah Al Jin",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/MRTALJINBUM.mp3",
+      "duration": "590",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "MUROTTAL",
+      "title": "Surah FUSSIAT",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/6MRTFUSSIAT44BUM.mp3",
+      "duration": "467",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "MUROTTAL",
+      "title": "Surah Asy Syuarah",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/5MRTASYSYUARAH80BUM.mp3",
+      "duration": "249",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "MUROTTAL",
+      "title": "Surah AL ISra",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/4MRTALISRA82BUM.mp3",
+      "duration": "196",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "MUROTTAL",
+      "title": "Surah An Nahl",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/3MRTANNAHL69BUM.mp3",
+      "duration": "372",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "MUROTTAL",
+      "title": "Surah Yunus",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/2MRTYUNUS57BUM.mp3",
+      "duration": "323",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "MUROTTAL",
+      "title": "Surah At Taubah",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/1MRTATTAUBAH14BUM.mp3",
+      "duration": "249",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "MUROTTAL",
+      "title": "Surah YAsin",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/MRTYASINBUMA.mp3",
+      "duration": "1175",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "MUROTTAL",
+      "title": "Doa Penyembuh",
+      "image": "file:///android_asset/image/MRT.jpg",
+      "link_mp3": "mp3/ZMRTDOAPENYEMBHPNYKITBUM.mp3",
+      "duration": "1837",
+      "lyrics": ""
+    }
+  ]
+}
