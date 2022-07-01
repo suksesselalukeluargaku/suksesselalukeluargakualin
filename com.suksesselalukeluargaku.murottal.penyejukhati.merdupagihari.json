@@ -1,95 +1,90 @@
 {
-	"Ads": [{
-		"select_main_ads": "ADMOB",
-		"select_backup_ads": "",
-		"main_ads_banner": "x",
-		"main_ads_intertitial": "x",
-		"backup_ads_banner": "qwerty1234",
-		"backup_ads_intertitial": "qwerty1234",
-		"interval_intertitial": 2,
-		"initialize_sdk": "null",
-		"initialize_sdk_backup_ads": "null",
-		"high_paying_keyword_1": "",
-		"high_paying_keyword_2": "",
-		"high_paying_keyword_3": "",
-		"high_paying_keyword_4": "",
-		"high_paying_keyword_5": "",
-		"status_app": "0",
-		"link_redirect": "https://"
-	}],
-	"Categories": [{
-			"id": 1,
-			"name_category": "MUROTTAL PAGI",
-			"image": "file:///android_asset/image/THA.jpg"
-		},
-		{
-			"id": 2,
-			"name_category": "ADZAN DAN PUJIAN",
-			"image": "file:///android_asset/image/THB.jpg"
-		}
-	],
-	"Data": [{
-			"id": 1,
-			"name_category": "MUROTTAL PAGI",
-			"title": "SURAH AL BAQOROH",
-			"image": "file:///android_asset/image/THA.jpg",
-			"link_mp3": "mp3/MURPALBAQOROHDUU.mp3",
-			"duration": "1682",
-			"lyrics": ""
-		},
-		{
-			"id": 2,
-			"name_category": "MUROTTAL PAGI",
-			"title": "SURAH AL KAFI",
-			"image": "file:///android_asset/image/THA.jpg",
-			"link_mp3": "mp3/MURPALKHFIDU.mp3",
-			"duration": "2033",
-			"lyrics": ""
-		},
-		{
-			"id": 3,
-			"name_category": "MUROTTAL PAGI",
-			"title": "SURAH AL MULK",
-			"image": "file:///android_asset/image/THA.jpg",
-			"link_mp3": "mp3/MURPALMULKDU.mp3",
-			"duration": "520",
-			"lyrics": ""
-		},
-		{
-			"id": 4,
-			"name_category": "MUROTTAL PAGI",
-			"title": "SURAH AL WAQIAH",
-			"image": "file:///android_asset/image/THA.jpg",
-			"link_mp3": "mp3/MURPALWQIAHDU.mp3",
-			"duration": "679",
-			"lyrics": ""
-		},
-		{
-			"id": 5,
-			"name_category": "MUROTTAL PAGI",
-			"title": "SURAH AR RAHMAN",
-			"image": "file:///android_asset/image/THA.jpg",
-			"link_mp3": "mp3/MURPARRHMANDU.mp3",
-			"duration": "638",
-			"lyrics": ""
-		},
-		{
-			"id": 6,
-			"name_category": "MUROTTAL PAGI",
-			"title": "SURAH MASRYAM",
-			"image": "file:///android_asset/image/THA.jpg",
-			"link_mp3": "mp3/MURPSRAHMARYAMDU.mp3",
-			"duration": "1638",
-			"lyrics": ""
-		},
-		{
-			"id": 7,
-			"name_category": "MUROTTAL PAGI",
-			"title": "SURAH YUSUF",
-			"image": "file:///android_asset/image/THA.jpg",
-			"link_mp3": "mp3/MURPYUSUFDU.mp3",
-			"duration": "2413",
-			"lyrics": ""
-		}
-	]
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "x",
+    "main_ads_intertitial": "x",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 2,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "MUROTTAL PAGI",
+    "image": "file:///android_asset/image/mpa.png"
+  }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "MUROTTAL PAGI",
+    "title": "SURAH AL BAQOROH",
+    "image": "file:///android_asset/image/mpa.png",
+    "link_mp3": "mp3/MURPALBAQOROHDUU.mp3",
+    "duration": "1682",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "MUROTTAL PAGI",
+      "title": "SURAH AL KAFI",
+      "image": "file:///android_asset/image/mpa.png",
+      "link_mp3": "mp3/MURPALKHFIDU.mp3",
+      "duration": "2033",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "MUROTTAL PAGI",
+      "title": "SURAH AL MULK",
+      "image": "file:///android_asset/image/mpa.png",
+      "link_mp3": "mp3/MURPALMULKDU.mp3",
+      "duration": "520",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "MUROTTAL PAGI",
+      "title": "SURAH AL WAQIAH",
+      "image": "file:///android_asset/image/mpa.png",
+      "link_mp3": "mp3/MURPALWQIAHDU.mp3",
+      "duration": "679",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "MUROTTAL PAGI",
+      "title": "SURAH AR RAHMAN",
+      "image": "file:///android_asset/image/mpa.png",
+      "link_mp3": "mp3/MURPARRHMANDU.mp3",
+      "duration": "638",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "MUROTTAL PAGI",
+      "title": "SURAH MASRYAM",
+      "image": "file:///android_asset/image/mpa.png",
+      "link_mp3": "mp3/MURPSRAHMARYAMDU.mp3",
+      "duration": "1638",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "MUROTTAL PAGI",
+      "title": "SURAH YUSUF",
+      "image": "file:///android_asset/image/mpa.png",
+      "link_mp3": "mp3/MURPYUSUFDU.mp3",
+      "duration": "2413",
+      "lyrics": ""
+    }
+  ]
 }
