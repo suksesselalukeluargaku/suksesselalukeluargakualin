@@ -1,0 +1,104 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "x",
+    "main_ads_intertitial": "x",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 2,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "PAGI",
+    "image": "file:///android_asset/image/DP.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "PETANG",
+      "image": "file:///android_asset/image/DT.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "PAGI",
+    "title": "DZIKIR PAGI MISYARI",
+    "image": "file:///android_asset/image/THA.jpg",
+    "link_mp3": "mp3/DGIMISYARIDU.mp3",
+    "duration": "1112",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "PAGI",
+      "title": "DZIKIR PAGI MUZAMIL",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/DGIMUZAMILDU.mp3",
+      "duration": "2621",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "PAGI",
+      "title": "DZIKIR PAGI SALIM",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/DGISALIMBHANANDUAA.mp3",
+      "duration": "521",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "PAGI",
+      "title": "DZIKIR PAGI MERDU",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/DGISNADU.mp3",
+      "duration": "535",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "PETANG",
+      "title": "DZIKIR PETANG HANAN ATTAKI",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/DTANGHANNANDU.mp3",
+      "duration": "1125",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "PETANG",
+      "title": "DZIKIR PETANG MISYARI RASYID",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/DTANGMISYARIDU.mp3",
+      "duration": "1135",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "PETANG",
+      "title": "DZIKIR PETANG  MUZAMIL",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/DTANGMIZAMMILDU.mp3",
+      "duration": "1807",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "PETANG",
+      "title": "DZIKIR PETANG MERDU",
+      "image": "file:///android_asset/image/THA.jpg",
+      "link_mp3": "mp3/DTANGSUNNDU.mp3",
+      "duration": "529",
+      "lyrics": ""
+    }
+  ]
+}
