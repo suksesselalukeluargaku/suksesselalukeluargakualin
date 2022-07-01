@@ -1,0 +1,212 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "x",
+		"main_ads_intertitial": "x",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 2,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "SHOLAWAT",
+			"image": "file:///android_asset/image/SPZ.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "MUROTTAL",
+			"image": "file:///android_asset/image/MPZ.jpg"
+		}
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "SHOLAWAT",
+			"title": "HAYYUL HADI",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRHAYYULHADIDU.mp3",
+			"duration": "277",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "SHOLAWAT",
+			"title": "ANNABI SHOLLUALAIH",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRANNABISHOLLUALAIHDU.mp3",
+			"duration": "156",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "SHOLAWAT",
+			"title": "HASBI ROBBI JALALLAH",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/7SPRHASBIROBBIJALLAHDU.mp3",
+			"duration": "178",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "SHOLAWAT",
+			"title": "SHOLAWAT NARIYAH",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/6SPRSHLWATNARIYAHDU.mp3",
+			"duration": "322",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "SHOLAWAT",
+			"title": "YA AYUHAN NABI",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/5SPRYAAYYUHANNABIDU.mp3",
+			"duration": "256",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "SHOLAWAT",
+			"title": "LAA ILAAHA ILLALLAH",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/4SPRLAAILAAHAILLALLAHDU.mp3",
+			"duration": "240",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "SHOLAWAT",
+			"title": "ALLAH ALLAH AGHISNA",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/3SPRALLAHALLAHAGHISNADU.mp3",
+			"duration": "232",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "SHOLAWAT",
+			"title": "ALLAHUL KAFI",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/2SPRALLAHULKAFIDU.mp3",
+			"duration": "216",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "SHOLAWAT",
+			"title": "SHOLLALLA HUALA MUHHAMAD",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/1SPRSHOLLALLAHUALAMUHAMMADDU.mp3",
+			"duration": "202",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "SHOLAWAT",
+			"title": "HUWANNUR",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRHUWANNURDU.mp3",
+			"duration": "216",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "SHOLAWAT",
+			"title": "BADALLAH RIJALLAHU",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRIBADALLAHRIJALLAHDU.mp3",
+			"duration": "167",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "SHOLAWAT",
+			"title": "ROHMAKA YA ROBALIBADI",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRROHMAKAYAROBBALIBADIDU.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "SHOLAWAT",
+			"title": "SHOLAWAT SALAM",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRSHOLWATSLAMDU.mp3",
+			"duration": "276",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "SHOLAWAT",
+			"title": "SYAIKHONA",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRSYAIKHONADU.mp3",
+			"duration": "233",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "SHOLAWAT",
+			"title": "YA MUHAIMIN",
+			"image": "file:///android_asset/image/SPZ.jpg",
+			"link_mp3": "mp3/SPRYAMUHAIMINDU.mp3",
+			"duration": "206",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "MUROTTAL",
+			"title": "AL KAHFI",
+			"image": "file:///android_asset/image/MPZ.jpg",
+			"link_mp3": "mp3/MPR1ALKAHFIDU.mp3",
+			"duration": "2686",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "MUROTTAL",
+			"title": "SURAH YASIN",
+			"image": "file:///android_asset/image/MPZ.jpg",
+			"link_mp3": "mp3/MPR2YASINDU.mp3",
+			"duration": "1409",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "MUROTTAL",
+			"title": "AR RAHMAN",
+			"image": "file:///android_asset/image/MPZ.jpg",
+			"link_mp3": "mp3/MPR3ARRAHMANDU.mp3",
+			"duration": "776",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "MUROTTAL",
+			"title": "AL WAQIAH",
+			"image": "file:///android_asset/image/MPZ.jpg",
+			"link_mp3": "mp3/MPR4ALWAQIAHDU.mp3",
+			"duration": "937",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "MUROTTAL",
+			"title": " AL MULK",
+			"image": "file:///android_asset/image/MPZ.jpg",
+			"link_mp3": "mp3/MPR5ALMULKDU.mp3",
+			"duration": "612",
+			"lyrics": ""
+		}
+	]
+}
