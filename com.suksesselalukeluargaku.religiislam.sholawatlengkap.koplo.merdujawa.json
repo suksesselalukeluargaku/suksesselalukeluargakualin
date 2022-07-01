@@ -1,0 +1,266 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "x",
+    "main_ads_intertitial": "x",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 2,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "KOPLO",
+    "image": "file:///android_asset/image/RKA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "DANGDUT",
+      "image": "file:///android_asset/image/RKB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "KOPLO",
+    "title": "YA NABI SALAM ALAIKA",
+    "image": "file:///android_asset/image/RKA.jpg",
+    "link_mp3": "mp3/8SHRYANBISLAMALAIKALO.mp3",
+    "duration": "222",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "KOPLO",
+      "title": "YA BADROTIM",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/7SHRYABADROTIMLO.mp3",
+      "duration": "346",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "KOPLO",
+      "title": "LAW KANA BAINANAL HABIB",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/6SHRLAWKNABAINANALHBIBLO.mp3",
+      "duration": "250",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "KOPLO",
+      "title": "LIR ILIR",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/5SHRLIRIRLIRLO.mp3",
+      "duration": "262",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "KOPLO",
+      "title": "PADANG BULAN",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/4SHRPDANGMBULANLO.mp3",
+      "duration": "439",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "KOPLO",
+      "title": "TOMBO ATI",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/3SHRTMBOATILO.mp3",
+      "duration": "277",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "KOPLO",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/2SHRYATRIMLO.mp3",
+      "duration": "243",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "KOPLO",
+      "title": "ITIROF",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/2SHRITIRAFLO.mp3",
+      "duration": "443",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "KOPLO",
+      "title": "ALLAHUL KAAFI",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/1SHRALLAHULKFILO.mp3",
+      "duration": "197",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "KOPLO",
+      "title": "ADFAITA",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRADFAYTALO.mp3",
+      "duration": "261",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "KOPLO",
+      "title": "AISYAH ISTRI",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRAISYAHPRTILO.mp3",
+      "duration": "269",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "KOPLO",
+      "title": "ALLAH ALLAH AGHISNA",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRALLAHALLAHAGHISNALO.mp3",
+      "duration": "240",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "KOPLO",
+      "title": "ANTA SALAM",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRATASALAMLO.mp3",
+      "duration": "311",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "DANGDUT",
+      "title": "CERITO KUBUR",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRCRITOKBURLO.mp3",
+      "duration": "322",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "DANGDUT",
+      "title": "HUWANNUR",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRHUWANNURLO.mp3",
+      "duration": "255",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "DANGDUT",
+      "title": "ISYFALANA",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRISYFALANALO.mp3",
+      "duration": "254",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "DANGDUT",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRMNAANALO.mp3",
+      "duration": "201",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "DANGDUT",
+      "title": "SABEN MALEM JUMAT",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRSBNMLMJUMATLO.mp3",
+      "duration": "330",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "DANGDUT",
+      "title": "SHOLAWAT ASYGHIL",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRSHLWATASYGHILLO.mp3",
+      "duration": "291",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "DANGDUT",
+      "title": "SHOLAWAT NARIYAH",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRSHLWATNARIYAHLO.mp3",
+      "duration": "210",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "DANGDUT",
+      "title": "SHOLLALLOHUALLA MUHAMMAD",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRSHOLLALLOHUALLAMUHAMMADLO.mp3",
+      "duration": "261",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "DANGDUT",
+      "title": "SHOLAWAT BADAR",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRSHOLWATBDARRLO.mp3",
+      "duration": "298",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "DANGDUT",
+      "title": "SYAIKHONA",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRSYAIKHNALO.mp3",
+      "duration": "261",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "DANGDUT",
+      "title": "TIKET SUARGO",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRTIKTSUARGOLO.mp3",
+      "duration": "303",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "DANGDUT",
+      "title": "YA ALI YAB NABI THALI",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRYAALIYABNAABITHALIBLO.mp3",
+      "duration": "231",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "DANGDUT",
+      "title": "YA ASYIQOL MUSTOFA",
+      "image": "file:///android_asset/image/RKA.jpg",
+      "link_mp3": "mp3/SHRYAASYIQOLMUSTFALO.mp3",
+      "duration": "249",
+      "lyrics": ""
+    }
+  ]
+}
