@@ -1,14 +1,14 @@
 {
   "Ads": [{
     "select_main_ads": "ADMOB",
-    "select_backup_ads": "",
+    "select_backup_ads": "STARTAPP",
     "main_ads_banner": "x",
     "main_ads_intertitial": "x",
     "backup_ads_banner": "qwerty1234",
     "backup_ads_intertitial": "qwerty1234",
     "interval_intertitial": 2,
-    "initialize_sdk": "null",
-    "initialize_sdk_backup_ads": "null",
+    "initialize_sdk": "207397065",
+    "initialize_sdk_backup_ads": "207397065",
     "high_paying_keyword_1": "",
     "high_paying_keyword_2": "",
     "high_paying_keyword_3": "",
