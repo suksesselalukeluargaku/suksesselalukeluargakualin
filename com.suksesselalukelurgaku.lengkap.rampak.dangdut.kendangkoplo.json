@@ -1,0 +1,260 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "POPDUT",
+    "image": "file:///android_asset/image/DPA.png"
+  },
+    {
+      "id": 2,
+      "name_category": "KENDANG RAMPAK",
+      "image": "file:///android_asset/image/DPB.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "POPDUT",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/1KRPCAHSRIBUDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "POPDUT",
+    "title": "PEMUDA IDAMAN",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/2KRPMUDAIDNMANDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "POPDUT",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/3KRSTRU2DT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "POPDUT",
+    "title": "TIARA ADE ASTRID",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/4KRTIARAADASTRDDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "POPDUT",
+    "title": "GALA GALA ADE ASTRID",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/5KRGLAGLAADASTRDDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "POPDUT",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/6KRJKOTNGKIR1DT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "POPDUT",
+    "title": "SAYANG 2",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/7KRSYANG2DT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "POPDUT",
+    "title": "MLETRE",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/8KRMLETREDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "POPDUT",
+    "title": "KAU TERCIPTA BUKAN UNTUKU",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/9KRKAUTRCPTBKNUNTKUDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "POPDUT",
+    "title": "HARUSKAH AKU MATI",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/10KRHRSKAHAKUMTIDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "POPDUT",
+    "title": "BULEUD",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/11KRBULEUDDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "POPDUT",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/12KRDRMGABRUDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "POPDUT",
+    "title": "ADA UNTUKMU",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/KRADAUNTKMUDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "POPDUT",
+    "title": "AKU BUKAN JODOHNYA",
+    "image": "file:///android_asset/image/DPA.png",
+    "link_mp3": "mp3/KRAKUBKNJDHNYADT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "KENDANG RAMPAK",
+    "title": "BIDADARI CINTA",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRBDDARICNTADT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "KENDANG RAMPAK",
+    "title": "BERLAYAR TAK BERTEPI",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRBRLYARTAKBERTEPIDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "KENDANG RAMPAK",
+    "title": "BUIH JADI PERMDANI",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRBUIHJDPRMDNIDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "KENDANG RAMPAK",
+    "title": "DAGANG PINDANG",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRDGANAGPNDANGDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "KENDANG RAMPAK",
+    "title": "DUA KURSI",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRDUAKRSIDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "KENDANG RAMPAK",
+    "title": "DUA LALAKI ADE ASTRID",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRDUALALKIADEASTRDDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "KENDANG RAMPAK",
+    "title": "KECEWA",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRKCEWADT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "KENDANG RAMPAK",
+    "title": "KUDA SUMEDANG",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRKDASUMDANGDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "KENDANG RAMPAK",
+    "title": "KOYO JOGJA",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRKYOJGJAISTWDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "KENDANG RAMPAK",
+    "title": "LEMAH TELES",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRLMAHTLESDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "KENDANG RAMPAK",
+    "title": "MADIUN NGAWI",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRMDIUNNGWIDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "KENDANG RAMPAK",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KROJDBNDINGKEDT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "KENDANG RAMPAK",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRTIARADT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "KENDANG RAMPAK",
+    "title": "WULAN MERINDU",
+    "image": "file:///android_asset/image/DPB.png",
+    "link_mp3": "mp3/KRWLANMRINDUDT.mp3",
+    "lyrics": ""
+  }
+  ]
+}
