@@ -1,95 +1,294 @@
 {
-"redirect" : {
-
-// untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
-// pastikan mode offline mp3 true jika merubah ke mode mp3
-// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
-
-"HOMEURL" : "file:///android_asset/music/playlist.html",
-
-// testing server json yang dipakai
-"JSON_POPUP_WAIT" : "SIAP JOGET AMBYAR...",
-
-// Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=",
-
-// main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
-
-//     mode pengaturan iklan
-//     Mode ADMOB       Admob backup Unity Backup Startapp
-//     Mode FAN         FAN backup Unity Backup Startapp
-//     Mode APPODEAL    Appodeal backup Unity Backup Startapp
-//     Mode UNITY       Unity backup Startapp
-//     Mode APPLOVIN    Applovin backup Unity Backup Startapp
-//     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
-
-"INTER_COUNT" : "3",
-
-"ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : true,
-
-"ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
-
-"MODE_OFFLINE_MP3" : true,
-"ENABLE_STICKY_NOTIFICATION" : true,
-
-"STARTAPPID" : "201365479",
-
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
-
-"HPK_ALIENDROID" : "",
-"HPK_ADMOB1" : "",
-"HPK_ADMOB2" : "",
-"HPK_ADMOB3" : "",
-"HPK_ADMOB4" : "",
-"HPK_ADMOB5" : "",
-
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
-
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
-
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "MNCCHJVBRIPOGVUB",
-
-"APPLOVIN_BANNER_MAX_ID" : "",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "",
-
-"BUTTON_START" : "PUTAR LAGU",
-"BUTTON_SHARE" : "BAGIKAN",
-"BUTTON_RATING" : "RATING APP",
-
-"EXIT_POPUP_DIALOG" : "
-Bantu dan dukung kami dengan rating bingtang 5 ya agar kami terus bersemangat memberikan update tambahan lagu terbaru
-
-Klik tombol rating 
-",
-"RATE_BUTTON" : "Rate 5 Stars",
-"LATER_BUTTON" : "Nanti",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-this app is awesome 
-
-you need try to donwload this app
-i.ve download and so much happy
-
-",
-
-"MORE_BUTTON" : "Share Via WhatsApp",
-// Jika share button TRUE maka tombol MORE berubah SHARE
-// isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id="
-
- }
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "DENNY YENI",
+    "image": "file:///android_asset/image/DEYEN.png"
+  },
+    {
+      "id": 2,
+      "name_category": "DENNY CAKNAN",
+      "image": "file:///android_asset/image/DEN.png"
+    },
+    {
+      "id": 3,
+      "name_category": "YENI INKA",
+      "image": "file:///android_asset/image/YEN.png"
+    },
+    {
+      "id": 4,
+      "name_category": "HAPPY ASMARA",
+      "image": "file:///android_asset/image/PY.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "DENNY YENI",
+    "title": "BOJO LORO",
+    "image": "file:///android_asset/image/DEYEN.png",
+    "link_mp3": "mp3/1DYBJOLOROKL.mp3",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "DENNY YENI",
+      "title": "ALUN ALUN NGANJUK",
+      "image": "file:///android_asset/image/DEYEN.png",
+      "link_mp3": "mp3/2DYALUNNGNJUKKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "DENNY YENI",
+      "title": "RONDO KEMPLING",
+      "image": "file:///android_asset/image/DEYEN.png",
+      "link_mp3": "mp3/2DYRNDOKMPLINGKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "DENNY YENI",
+      "title": "TRESNO WARANGGONO",
+      "image": "file:///android_asset/image/DEYEN.png",
+      "link_mp3": "mp3/3DYTRSNOWRANGGONOKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "POP TERBARU",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/DEYEN.png",
+      "link_mp3": "mp3/4DYSTRU2KL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "DENNY YENI",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/DEYEN.png",
+      "link_mp3": "mp3/5DYLMAHTLESKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "DENNY YENI",
+      "title": "MADIUN NGAWI",
+      "image": "file:///android_asset/image/DEYEN.png",
+      "link_mp3": "mp3/6DYMDIUNNGWIKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "DENNY CAKNAN",
+      "title": "KLEBUS",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNKLEBUSKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "DENNY CAKNAN",
+      "title": "KLAYUNG LAYUNG",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNKLYUNGLYUNGKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "DENNY CAKNAN",
+      "title": "KARTOYONO",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNKRTNYONOKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "DENNY CAKNAN",
+      "title": "LOS DOL",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNLSDOLKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "DENNY CAKNAN",
+      "title": "NDAS GERIH",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNNDSGRIHKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "DENNY CAKNAN",
+      "title": "NGAWI NAIH JANJI",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNNGWNGHJNJIKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "DENNY CAKNAN",
+      "title": "PROLIMAN JOYO",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNPROLIMNJYOKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "DENNY CAKNAN",
+      "title": "SUGEND NDALU",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNSGENGNDALUKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "DENNY CAKNAN",
+      "title": "SEWU KUTHO",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNSWUKTHOKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "DENNY CAKNAN",
+      "title": "TANPO TRESNAMU",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNTNPOTRSNMUKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "DENNY CAKNAN",
+      "title": "TITIPANE GUSTI",
+      "image": "file:///android_asset/image/DEN.png",
+      "link_mp3": "mp3/DNTTPANEGSTIKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "YENI INKA",
+      "title": "ADA UNTUKMU",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNADAUNTKMUKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "YENI INKA",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNDRMAGABRUKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "YENI INKA",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNJKOTNGKIRKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "YENI INKA",
+      "title": "KERE MUGNGAH BALE",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNKREMNGGAHBALEKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "YENI INKA",
+      "title": "LUNGOO",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNLUNGOOKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "YENI INKA",
+      "title": "MENDUNG TANPO UDAN",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNMNDUNGTNPOUDNKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "YENI INKA",
+      "title": "OJO DIBANDING",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNOJODBNDINGBNDINGKEKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "YENI INKA",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNTIARAKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "YENI INKA",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/YEN.png",
+      "link_mp3": "mp3/YNTOPTPANKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "HAPPY ASMARA",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/PY.png",
+      "link_mp3": "mp3/HDOJODBNDINGBNDINGKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "HAPPY ASMARA",
+      "title": "SAKIT RINDU",
+      "image": "file:///android_asset/image/PY.png",
+      "link_mp3": "mp3/HDSKITRINDUKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "HAPPY ASMARA",
+      "title": "SLENCO",
+      "image": "file:///android_asset/image/PY.png",
+      "link_mp3": "mp3/HDSLNCOKL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "HAPPY ASMARA",
+      "title": "TETEG ATI",
+      "image": "file:///android_asset/image/PY.png",
+      "link_mp3": "mp3/HDTTEGATIKL.mp3",
+      "lyrics": ""
+    }
+  ]
 }
