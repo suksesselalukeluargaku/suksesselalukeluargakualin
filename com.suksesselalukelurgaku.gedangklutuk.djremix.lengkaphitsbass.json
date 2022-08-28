@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "REMIX VIRAL",
+    "image": "file:///android_asset/image/REM.png"
+  },
+    {
+      "id": 2,
+      "name_category": "REMIX KOPLO",
+      "image": "file:///android_asset/image/PLO.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "REMIX VIRAL",
+    "title": "DJ EFEK GEDANG KLUTUK",
+    "image": "file:///android_asset/image/REM.png",
+    "link_mp3": "mp3/1EFKGDNGKLTUKMIX.mp3",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ DALANE GUSTI",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/2DGDLANEGSTIMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ GORENG GORENG X DJ CAMPURAN",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/3DGGRENGGRENGXCMPURANMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ RINDU SEMALAM",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/4DGRNDUSMALAMMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ KAKA BAJU HITAM",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/5DGKAKAKBJUHTAMMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ LEFT RIGHT X PAK PONG PONG",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/6DGLEFTRIGHTXPAKPONGMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ MUKAMU MANIS SEPERTI GULA",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/7DGMUKMUMNISSPRTIGULAMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ SIKOK BAGI DUO",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/8DGSKOKBGIDUOMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ CLOSE YOURE EYES",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/9DGCLOSEYOUREYESMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ COME ON TURN",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/10DGCOMEONTURNMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ POK AME AME",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/11DGPOKAMEMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ AKU NGOMBE KOWE NGOMBE",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGAKUNGMBEKWNGMBEMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ GAK MAU LAGI PACARAN",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGGKMAULGIPCARANSMAKMUMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ MARI SEMUA BERDANSA",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGMRISMUABERDNSAMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ NAMAKU BENTO",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGNMAKUBENTOMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ PAK WONG WONG",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGPKWNGWONGMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ RIP",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGRIPMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ SLEBEW",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGSLBEWMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ TEROMPET PERMERSATU BANGSA",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGTROMPETPMRSATUMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "REMIX VIRAL",
+      "title": "DJ TUTU SLOW",
+      "image": "file:///android_asset/image/REM.png",
+      "link_mp3": "mp3/DGTUTUSLOWMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ EFEK GEDANG KLUTUK",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/Z1DGEFKGDANGKLUTUKMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/Z2DGDBANDINGKEMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ JOKO TINGKIR",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/Z3DGJKOTNGKIRMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ TIARA",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/Z4DGTIARAMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ BERLAYAR TAK BERTEPI",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/ZDGBRLAYARTAKBRPTEPIMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ CINTA SAMPAI MATI",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/ZDGCNTASMPAIMATIMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ DERMAGA BIRU",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/ZDGDRMAGABIRUMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ FULL SENYUM SAYANG",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/ZDGFLSNYUMSYANGMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ LINTING DAUN",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/ZDGLNTINGDAUNMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "REMIX KOPLO",
+      "title": "DJ PECAH SERIBU",
+      "image": "file:///android_asset/image/PLO.png",
+      "link_mp3": "mp3/ZDGPCAHSRIBUMIX.mp3",
+      "lyrics": ""
+    }
+  ]
+}
