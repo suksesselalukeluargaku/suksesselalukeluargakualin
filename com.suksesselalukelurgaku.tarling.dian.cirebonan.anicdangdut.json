@@ -1,0 +1,228 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "",
+    "image": "file:///android_asset/image/DIN.png"
+  },
+    {
+      "id": 2,
+      "name_category": "",
+      "image": "file:///android_asset/image/NIC.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/1DNOJODIBNDNGKETR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/2DNJKOTNGKIRTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "",
+    "title": "KECEWA",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/3DNKCEWATR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "",
+    "title": "GALA GALA",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/4DNGLAGLATR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/5DNPCAHSRIBUTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "",
+    "title": "DAGANG PINDANG",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/6DNDGANGPINDNGTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "",
+    "title": "SABDA CINTA",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/7DNSBDACNTATR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "",
+    "title": "TURU NING PAWON",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/8DNTRUNINGPWONTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "",
+    "title": "TANGGUL KALI BANGKIR",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/9DNTNGGULKLIBNGKIRTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "",
+    "title": "KAWIN KARO BAYI",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/10DNKWINKROBAYITR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "",
+    "title": "AYANG AYANG",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/DNAYANGAYNGTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "",
+    "title": "DALANE GUSTI",
+    "image": "file:///android_asset/image/DIN.png",
+    "link_mp3": "mp3/DNDLANEGSTITR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "",
+    "title": "DERMAYU HONGKONG",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNDRMAYUHNGKONGTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "",
+    "title": "JALUK TAMBAH",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNJLUKIMBUHTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "",
+    "title": "KENANGAN",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNKNANGANTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "",
+    "title": "LANANGAN GARANG",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNLNANGANGRANGTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "",
+    "title": "LANANGE JAGAT",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNLNANGEJGATTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "",
+    "title": "METU TALAKE",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNMETUTLAKETR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "",
+    "title": "NGBROK KODOK",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNNGBORKDOKTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "",
+    "title": "PENGEN DI SAYANG",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNPNGNDISYANGTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "",
+    "title": "REBUTAN LAYANG",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNRBUTANLYANGTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "",
+    "title": "TAMU KONDANGAN",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNTMUKNDANGANTR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "",
+    "title": "TETEP NYAYANGI",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNTTPNYAYANGITR.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "",
+    "title": "WARTIYEM",
+    "image": "file:///android_asset/image/NIC.png",
+    "link_mp3": "mp3/DNWRTIYEMTR.mp3",
+    "lyrics": ""
+  }
+  ]
+}
