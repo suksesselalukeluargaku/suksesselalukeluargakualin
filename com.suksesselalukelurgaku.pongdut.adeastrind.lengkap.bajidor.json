@@ -1,0 +1,204 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/AST.png"
+  },
+    {
+      "id": 2,
+      "name_category": "PONGDUT",
+      "image": "file:///android_asset/image/PGD.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "MIDUA CINTA",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/1ASMIDUACNTADUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "TERBARU",
+    "title": "GALA GALA",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/2ASGLAGLADUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "TERBARU",
+    "title": "BULEUD",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/3ASBULEUDDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "TERBARU",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/4ASPCAHSRIBUDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "TERBARU",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/5ASTIARADUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "TERBARU",
+    "title": "GARUT INTAN",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/6ASGARUTINTANDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "TERBARU",
+    "title": "DUA LALAKI",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/7ASDUALLAKIDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "TERBARU",
+    "title": "BEBENDE",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/ASBEBENDEDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "TERBARU",
+    "title": "BUIH JADI PERMADANI",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/ASBUIHJDIPRMDNIDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "TERBARU",
+    "title": "JURAGAN EMPANG",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/ASJRGANEMPANGDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "TERBARU",
+    "title": "KECEWA",
+    "image": "file:///android_asset/image/AST.png",
+    "link_mp3": "mp3/ASKCEWADUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "PONGDUT",
+    "title": "MAPAYA ROKO",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASMAPAYROKODUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "PONGDUT",
+    "title": "MATA POE",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASMATAPOEDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "PONGDUT",
+    "title": "MIDUA CINTA",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASMIDUACNTADUTON.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "PONGDUT",
+    "title": "MOJANG PARIYANGAN",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASMJANGPRIYANGANDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "PONGDUT",
+    "title": "NISTA",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASNISTADUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "PONGDUT",
+    "title": "ORAYA WELANG",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASORAYWELANGDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "PONGDUT",
+    "title": "PANGANTIN ANYAR",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASPNGATINANYARDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "PONGDUT",
+    "title": "SATIA",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASSATIADUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "PONGDUT",
+    "title": "SEDINGIN SALJU",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASSDINGINSLJUDUT.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "PONGDUT",
+    "title": "SONIA",
+    "image": "file:///android_asset/image/PGD.png",
+    "link_mp3": "mp3/ASSONIADUT.mp3",
+    "lyrics": ""
+  }
+  ]
+}
