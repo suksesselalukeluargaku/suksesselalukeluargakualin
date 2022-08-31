@@ -1,0 +1,244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "OLD",
+    "image": "file:///android_asset/image/INOL.png"
+  },
+    {
+      "id": 2,
+      "name_category": "ROMATIC",
+      "image": "file:///android_asset/image/INTIC.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "OLD",
+    "title": "HUMKO HUMISE CHURALO",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK1.mp3",
+    "lyrics": "<p>Aaaa aaa aaa<br />Humko humise chura lo, dil mein kahin tum chhupa lo <br />Humko humise chura lo, dil mein kahin tum chhupa lo <br />Hum akele kho naa jaaye, door tumse ho naa jaaye<br />Paas aao gale se lagaa lo<br /><br />Humko humise chura lo, dil mein kahin tum chhupa lo<br />Hum akele kho naa jaaye, door tumse ho naa jaaye<br />Paas aao gale se lagaa lo<br /><br />Humko humise chura lo<br /><br />Dil mein kahin tum chhupa lo<br /><br />Aaa aaa aa, la la la la la<br /><br />Yeh dil dhadka do, zulfen bikhraa do<br />Sharmaake apna, aanchal lehraa do<br /><br />Hum zulfen to bikhraa de, din mein raat na ho jaaye<br />Hum aanchal to lehraa de, par barsaat na ho jaaye<br /><br />Hone do barsaatein, karni hain kuch baatein<br /><br />Paas aao gale se lagaa lo<br /><br />Humko humise chura lo, dil mein kahin tum chhupa lo<br /><br />Hum akele kho naa jaaye, door tumse ho naa jaaye<br /><br />Paas aao gale se lagaa lo<br /><br />Humko humise chura lo<br /><br />Dil mein kahin tum chhupa lo<br /><br />Aa aa aaa aaa aa, la la la la laa<br /><br />Tumpe marte hain, hum mar jaayenge<br />Yeh sab kehte hain, hum kar jaayenge<br /><br />Chupki bhar sindoor se tum ab yeh maang zara bhar do<br />Kal kya ho kisne dekha, sab kuch aaj abhi kar do<br /><br />Hona ho sab raazi, dil raazi, rab raazi<br /><br />Paas aao gale se lagaa lo<br /><br />Humko humise chura lo, dil mein kahin tum chhupa lo<br /><br />Oooo, humko humise chura lo, dil mein kahin tum chhupa lo<br /><br />Hum akele ho naa jaaye, door tumse ho naa jaaye<br /><br />Paas aao gale se lagaa lo<br />Paas aao gale se lagaa lo<br /><br />La la la, hmm hmm</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "OLD",
+    "title": "MUJHSE DOSTI KAROGE",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK2.mp3",
+    "lyrics": "<p>Kehdo ki tum mere dil mein rahoge<br />Kehdo ki tum mujhse dosti karoge 2X<br />Dehkungi sochungi kal parso kuchh kahungi<br />Kehdo ki tum mere dil mein rahoge<br />Kehdo ki tum mujhse dosti karoge<br />Dehkungi sochungi kal parso kuchh kahungi<br /><br />Hum saathi kitne puraane phir kyon hai itne anjaane 2X<br />Kya rang laaye na jaane bachpan ke yeh dostaane<br />Kab kahan kya khabar ja ruke yeh najar<br />Are kya pata kaun hai kiska yahan humsafar<br />Kehdo ki tum mere dil mein rahoge<br />Kehdo ki tum mujhse dosti karoge<br />Dehkungi sochungi kal parso kuchh kahungi<br />Kehdo ki tum mere dil mein rahoge<br />Kehdo ki tum mujhse dosti karoge<br /><br />Tum bhi to ho dost meri tum to mera saath de do 2X<br />Apni saheli ka mere haathon mein tum haath de do<br />Intjaar intjaar aur kya hai yeh pyaar<br />Juth hi sahi kehde woh ek baar<br />Lo maine kaha tumse dosti karungi, tum bhi kaho mujhse dosti karoge<br />Dehkunga sochunga kal parso kuchh kahunga 2X</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "OLD",
+    "title": "TUJHE DEKHA TO JANA SANAM",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK3.mp3",
+    "lyrics": "<p>Tujhe Dekha To Yeh Jaana Sanam<br />Pyar Hota Hai Deewana Sanam<br />Tujhe Dekha To Yeh Jaana Sanam<br />Tujhe Dekha To Yeh Jaana Sanam<br />Pyar Hota Hai Deewana Sanam<br />Ab Yahan Se Kahan Jaaye Hum<br />Teri Baahon Mein Mar Jaaye Hum<br />Tujhe Dekha To Yeh Jaana Sanam<br />Pyar Hota Hai Deewana Sanam<br />Ab Yahan Se Kahan Jaaye Hum<br />Teri Baahon Mein Mar Jaaye Hum<br />Tujhe Dekha To Yeh Jaana Sanam</p><p>Aankhen Meri, Sapne Tere<br />Dil Mera, Yaaden Teri<br />Mera Hai Kya, Sab Kuch Tera<br />Jaan Teri, Saanse Teri<br />Meri Aankhon Mein Aansoo Tere Aa Gaye<br />Muskurane Lage Sare Gam<br />Tujhe Dekha To Yeh Jaana Sanam<br />Pyar Hota Hai Deewana Sanam<br />Ab Yahan Se Kahan Jaaye Hum<br />Teri Baahon Mein Mar Jaaye Hum<br />Tujhe Dekha To Yeh Jaana Sanam</p><p>Ye Dil Kahin, Lagta Nahin<br />Kya Kahun, Main Kya Karun<br />Tu Samane, Baithi Rahe<br />Main Tujhe Dekha Karun<br />Tu Ne Aawaz Di Dekh Main Aa Gayee<br />Pyar Se Hai Badi Kya Kasam<br />Tujhe Dekha To Yeh Jaana Sanam<br />Pyar Hota Hai Deewana Sanam<br />Ab Yahan Se Kahan Jaaye Hum<br />Teri Baahon Mein Mar Jaaye Hum<br />Tujhe Dekha To Yeh Jaana Sanam</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "OLD",
+    "title": "KUCH KUCH HOTA HAI",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK4.mp3",
+    "lyrics": "<p>Tum paas aaye<br />Yun muskuraaye</p><p>Tum paas aaye<br />Yun muskuraaye<br />Tumne na jaane kya<br />Sapne dikhaye (Repeat once)</p><p>Ab toh mera.. dil<br />Jaage na sota hai<br />Kya karoon haye<br />Kuch kuch hota hai<br />Kya karoon haye<br />Kuch kuch hota hai (Male)</p><p>Tum paas aaye<br />Yun muskuraaye<br />Tumne na jaane kya<br />Sapne dikhaye<br />Ab toh mera.. dil<br />Jaage na sota hai<br />Kya karoon haye<br />Kuch kuch hota hai<br />Kya karoon haye<br />Kuch kuch hota hai (Female)</p><p>Naa jaane kaisa<br />Ehsaas hai<br />Bujhti nahin hai<br />Kya pyaas hai (Male)</p><p>Kya nasha<br />Is pyaar ka<br />Mujhpe sanam<br />Chhane laga.. (Female)</p><p>Koi na jaane<br />Kyon chein khota hai<br />Kya karoon haye<br />Kuch kuch hota hai (Male)</p><p>Kya karoon haye<br />Kuch kuch hota hai (Female)</p><p>Hey.. hun&hellip; Aa.. Aa..</p><p>Kya rang layi<br />Meri dua<br />Ye ishq jaane<br />Kaise hua<br />Bechainiyon mein chain<br />Na jaane kyon<br />Aane laga (Female)</p><p>Tanhai mein dil<br />Yaadein sanjota hai<br />Kya karoon haye<br />Kuch kuch hota hai (Male)</p><p>Kya karoon haye<br />Kuch kuch hota hai (Female)</p><p>Tum paas aaye<br />Yun muskuraaye<br />Tumne na jaane kya<br />Sapne dikhaye (Repeat &ndash; Male and Female)</p><p>Ab toh mera.. dil<br />Jaage na sota hai<br />Kya karoon haye<br />Kuch kuch hota hai<br />Kya karoon haye<br />Kuch kuch hota hai (Male)</p><p>Kya karoon haye<br />Kuch kuch hota hai (Female)</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "OLD",
+    "title": "CHALTE CHALTE YUNHI",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK5.mp3",
+    "lyrics": "<p>--MALE--<br />Chalte chalte yunhi ruk jaata hoon main<br />Bethe bethe kahin kho jaata hoon main<br />Kehte kehte hi chup ho jaata hoon main<br />Kya yahin pyaar hai, kya yahin pyaar hai</p><p>--FEMALE--<br />Haan yahin pyaar hai, haan yahin pyaar hai</p><p>--MALE--<br />Chalte chalte yunhi ruk jaata hoon main<br />Bethe bethe kahin kho jaata hoon main<br />Kehte kehte hi chup ho jaata hoon main <br />Kya yahin pyaar hai, kya yahin pyaar hai</p><p>--FEMALE--<br />Haan yahin pyaar hai, haan yahin pyaar hai</p><p><br />--MALE--<br />Tumpe marte hai kyoon hum nahin jaante - 2<br />Aisa karte hai kyoon hum nahin jaante</p><p>Band galiyon se chup chup ke hum guzarne lage<br />Saari duniya se rehke rehke hum to darrne lage<br />Hai, yeh kya karne lage</p><p>Kya yahin pyaar hai, kya yahin pyaar hai</p><p>--FEMALE--<br />Haan yahin pyaar hai, haan yahin pyaar hai</p><p>--MALE--<br />Chalte chalte yunhi ruk jaata hoon main<br />Bethe bethe kahin kho jaata hoon main<br />Kehte kehte hi chup ho jaata hoon main<br />Kya yahin pyaar hai, kya yahin pyaar hai</p><p>--FEMALE--<br />Haan yahin pyaar hai, haan yahin pyaar hai <br />--MALE--<br />Teri baaton mein yeh ek sharaarat si hai - 2<br />Mere honton pe yeh ek shikaayat si hai</p><p>Teri aanhkon ko aankhon se choomne hum lage<br />Tujhko baahon mein le lekar jhoomne hum lage<br />Hai, yeh kya karne lage</p><p>Kya yahin pyaar hai, kya yahin pyaar hai</p><p>--FEMALE--<br />Haan yahin pyaar hai, haan yahin pyaar hai</p><p>--MALE--<br />Chalte chalte yunhi ruk jaata hoon main<br />Bethe bethe kahin kho jaata hoon main<br />Kehte kehte hi chup ho jaata hoon main<br />Kya yahin pyaar hai, kya yahin pyaar hai<br />Haan yahin pyaar hai, haan yahin pyaar hai</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "OLD",
+    "title": "KOI MIL GAYA",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK6.mp3",
+    "lyrics": "<p>Koi mil gaya<br />Koi mil gaya<br />Koi mil gaya<br />Mujhko kya hua hai<br />Kyon main kho gaya hoon<br />Paagal tha main pehle<br />Ya ab ho gaya hoon<br />Behki hai nigahein<br />Aur bikhre hain baal<br />Tumne banaya hai<br />Kya apna ye haal<br />Koi mil gaya<br />Koi mil gaya<br />Mera dil gaya<br />Kya bataoon yaaron<br />Kya bataoon yaaron<br />Main to hil gaya<br />Main to hil gaya<br />Koi mil gay mil hi gaya<br />Mil gaya hey mil hi gaya<br />Mil gaya<br />Mujhko kya hua hai<br />Arre kyon main kho gaya hoon<br />Ay paagal tha main pehle<br />Ya ab ho gaya hoon<br />Behki hai nigahein<br />Aur bikhre hain baal<br />Tumne banaya hai<br />Kya apna ye haal<br />Koi mil gaya koi mil gaya<br />Mera dil gaya mera dil gaya<br />Kya bataoon yaaron<br />Kya bataoon yaaron<br />O main to hil gaya<br />Main to hil gaya<br />Koi mil gay<br />Mil hi gaya mil gaya<br />Mil hi gaya mil gaya<br />Jaane kya ho gaya hai mujhe<br />Deewana log kehne lage<br />Jaane kya ho gaya hai mujhe<br />Deewana log kehne lage<br />Ye deewangi hai kya<br />Humein bhi to ho pata<br />Tumko kya ho gaya<br />Arre kal tak mujhko sab hosh tha<br />Dil mein khushiyon ka josh tha<br />Phir ye becheini hai kyon<br />Phir ye betaabi hai kyon<br />Kya koi kho gaya<br />Koi mil gaya koi mil gaya<br />Mera dil gaya mera dil gaya<br />Kya bataoon yaaron<br />Kya bataoon yaaron<br />O main to hil gaya<br />Main to hil gaya<br />Koi mil gaya mil hi gaya<br />Mil gaya hey<br />Mil hi gaya mil gaya<br />Baadal banke kaun aa gaya<br />Kaun hai jo dil pe yoon chha gaya<br />Baadal banke kaun aa gaya<br />Kaun hai jo dil pe yoon chha gaya<br />Chaahoon ki bataoon main<br />Phir bhi keh na paoon main<br />naam uska hai kya<br />O naam na lo par kuchh to kaho<br />Halka sa koi ishaara to do<br />Meri aankhon mein hai vo<br />Meri saanson mein hai vo<br />Aur kahoon tumse kya<br />Koi mil gaya koi mil gaya<br />Mera dil gaya o mera dil gaya<br />Kya bataoon yaaron<br />Kya bataoon yaaron<br />Main to hil gaya<br />Main to hil gaya<br />Koi mil gaya<br />Mil hi gaya mil gaya<br />Hey mil hi gaya mil gaya<br />Muhko kya hua hai<br />Kyon main kho gaya hoon<br />Paagal tha main pehle<br />Ya ab ho gaya hoon<br />Behki hain nigahein<br />Aur bikhre hain baal<br />Tumne banaya hai kya<br />Apna ye haal<br />O koi mil gaya koi mil gaya<br />Arre mera dil gaya o mera dil gaya<br />Kya bataoon yaaron<br />Kya bataoon yaaron<br />O main to hil gaya<br />Main to hil gaya<br />Koi mil gaya<br />Mil hi gaya mil gaya<br />Mil hi gaya<br />Mil hi gaya mil hi gaya<br />Mil hi gaya mil hi gaya</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "OLD",
+    "title": "BOLE CHUDIYAN",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK7.mp3",
+    "lyrics": "Bole chudiyan..<br />Bole kangna<br />Haaye main ho gayi..<br />Teri saajna<br />Tere bin jiyo naiyo lag da main te margaiya.. (Female)<br /><br />Le jaa le jaa<br />Le jaa le jaa<br />soniye le jaa le jaa<br />Le jaa le jaa<br />soniye le jaa le jaa (Group- Repeat once)<br /><br />Aah.. aah.. aah.. aah..<br />Bole chudiyan..<br />Bole kangna<br />Haaye main ho gayi.. (Repeat once)<br />Tere bin jiyo naiyo lag da main te margaiya (Female)<br /><br />Le jaa le jaa<br />Soniye le jaa le jaa<br />Dil le jaa le jaa.. ho.. (Group)<br /><br />Bole chudiyan..<br />Bole kangna<br />Haaye main ho gaya..<br />Tera saajna<br />Tere bin jiyo naiyo lag da main te marjaawa.. (Male)<br /><br />Le jaa le jaa<br />Soniye le jaa le jaa<br />Dil le jaa le jaa.. ho.. (Group)<br /><br /><br />Haaye haaye main marjaawa marjaawa tere bin<br />Ab to meri raatein kat ti taare gin gin<br />Bas tujhko pukaara kare<br />Meri bindiya ishaara kare (Female)<br /><br />Hoye, lashkaara lashkaara teri bindiya ka lashkaara<br />Aise chamke jaise chamke chaand ke paas sitaara (Male)<br /><br />Oho&#8230; o&#8230;<br />Meri paayal bulaaye tujhe<br />Jo roothe manaaye tujhe<br />O sajan ji<br />Haan sajan ji<br />Kuch socho kuch samjho meri baat.. ko (Female)<br /><br />Bole chudiyan..<br />Bole kangna<br />Haaye main ho gaya..<br />Tera saajna<br />Tere bin jiyo naiyo lag da main te marjaawa.. (Male)<br /><br />Le jaa le jaa<br />Soniye le jaa le jaa<br />Dil le jaa le jaa ho.. (Group)<br /><br />Apni maang suhaagan ho (Ha..aa..)<br />Sang hamesha saajan ho (Ha..aa..)<br />Aake meri duniya mein<br />Vaapas na jaana<br />Sehra baandhke maahi<br />Tu mere ghar aana (Female)<br /><br />Oye soni kitti soni aaj tu lagdi ve<br />Bas mere saath yeh jodi teri sajdi ve (Group)<br />Roop aisa suhaana tera (Male)<br />Chaand bhi hai deewana tera (Other Male)<br /><br />Jaa re jaa oh jhoothe teri galla hum na maane<br />Kyun taarife karta hai tu humko sab kuch jaane (Group)<br /><br />Oho&#8230; o&#8230; ho.. o..<br />Mere dil ki duaa yeh kahe<br />Teri jodi salaamat rahe (Male)<br /><br />O sajan ji<br />Haan sajan ji<br />Yunhi beete saara jeevan saath mein (Female)<br /><br />Bole chudiyan..<br />Bole kangna (Male)<br />Haaye main ho gaya..<br />Teri saajna (Group)<br /><br />Tere bin jiyo naiyo lag da main te margaiya.. (Female)<br />Le jaa le jaa<br />Soniye le jaa le jaa<br />Dil le jaa le jaa ho.. (Group)<br /><br />Le jaa le jaa<br />Soniye le jaa le jaa<br />Dil le jaa le jaa ho.. (Group)<br /><br />Aaja heeriye (Male)<br />Oh jaa jaa ranjhna (Female)<br />Aaja heeriye (Male)<br />Jaa jaa ranjhna (Female)<br /><br />Le jaa le jaa<br />Dil le jaa le jaa<br />Le jaa le jaa<br />Soniye le jaa le jaa (Group) (repeat once)<br /><br />Aa.. aa.. aa.. (Group)<br /><br />Aa.. aa.. kabhi khushi kabhie gham<br />Na judaa honge hum<br />Kabhi khushi.. kabhie gham.."
+  },
+  {
+    "id": 8,
+    "name_category": "OLD",
+    "title": "AANKHEIN KHULI",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK8.mp3",
+    "lyrics": "<p>Aankhein khuli ho ya ho band<br />Deedar unka hota hai<br />Kaise kahoon main o yaara<br />Yeh pyaar kaise hota hai</p><p>Hey aankhein khuli ho ya ho band<br />Deedar unka hota hai<br />Aankhein khuli ho ya ho band<br />Deedar unka hota hai<br />Kaise kahoon main o yaara<br />Yeh pyaar kaise hota hai</p><p>Aankhein khuli ho ya ho band<br />Deedar unka hota hai<br />Kaise kahoon main o yaara<br />Yeh pyaar kaise hota hai</p><p>Aaj hi yaaron kisi pe mar ke dekhenge hum<br />Pyaar hota hai yeh kaise karke dekhenge hum<br />Kisi ki yaadon mein khoye hue<br />Khwaabon ko humne saja liya<br />Kisi ki baahon mein soye hue<br />Apna use bana liya<br />Aye yaar pyaar mein koi<br />Aye yaar pyaar mein koi<br />Na jaagta na sota hai<br />Kaise kahoon main o yaara<br />Yeh pyaar kaise hota hai</p><p>Kya hai yeh jaadu hai koi bas jo chal jata hai<br />Tod ke pehre hazaaron dil nikal jata hai<br />Door kahin aasmanon par<br />Hote hain yeh saare faisle<br />Kaun jaane koi humsafar<br />Kab kaise kahan mile<br />Jo naam dil pe ho likha<br />Jo naam dil pe ho likha<br />Ikraar usi se hota hai<br />Kaise kahoon main o yaara<br />Yeh pyaar kaise hota hai</p><p>Aankhein khuli ho ya ho band<br />Deedar unka hota hai<br />Aankhein khuli ho ya ho band<br />Deedar unka hota hai<br />Kaise kahoon main o yaara<br />Yeh pyaar kaise hota hai</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "OLD",
+    "title": "KAL HO NA HO",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK9.mp3",
+    "lyrics": "<p>Har ghadi badal raha hai roop zindagi<br />Chaav hai kahhi hai dhoop zidnagi<br />Har pal yahan jee bhar jiyo<br />Jo hai sama, kal ho na ho</p><p>Har ghadi badal raha hai roop zindagi<br />Chaav hai kahhi hai dhoop zidnagi<br />Har pal yahan jee bhar jiyo<br />Jo hai sama, kal ho na ho</p><p>Chaahe jo tumhe poore dil se<br />Milta hai woh mushkil se<br />Aisa jo koi kahin hai<br />Bas vahi sabse hasin hai</p><p>Us haath ko tum thaam lo<br />Woh meherbaan kal ho na ho<br />Har pal yahan jee bhar jiyo<br />Jo hai sama kal ho na ho</p><p>Palko ke leke saaye<br />Paas koi jo aaye<br />Lakh sambhalo paagal dil ko<br />Dil dhadke hi jaaye</p><p>Par sochlo is pal hai jo<br />Woh dastan kal ho na ho<br />Har pal yahan jee bhar jiyo<br />Jo hai sama kal ho na ho<br />Har pal yahan jee bhar jiyo<br />Jo hai sama kal ho na ho</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "OLD",
+    "title": "SURAJ HUA MADDHAM",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK10.mp3",
+    "lyrics": "<p>Suraj hua madham chaand jalne laga<br />Aasmaan yeh haai kyoon pighalne laga<br />Suraj hua madham chaand jalne laga<br />Aasmaan yeh haai kyoon pighalne laga<br />Main thehra raha zameen chalne lagi<br /><br />Dhadrka yeh dil saans thamne lagi<br />Oh kya yeh mera pehla pehla pyaar hai<br />Sajna kya yeh mera pehla pehla pyaar hai<br />Suraj hua madham chaand jalne laga<br />Aasmaan yeh haai kyoon pighalne laga<br /><br />Main thehra raha zameen chalne lagi<br />Dhadka yeh dil saans thamne lagi<br />Oh kya yeh mera pehla pehla pyaar hai<br />Sajna kya yeh mera pehla pehla pyaar hai<br />Hai khoobsurat yeh pal sab kuch raha hai badal</p><p>Sapne haqeeqat mein jo dhal rahe hai<br />Kya sadiyon se puraana hai rishtaa yeh hamaara<br />Ke jis tarha tumse hum mil rahe hai<br />Yunhi rahe har dam pyaar ka mausam<br />Yunhi milo humse tum janam janam<br /><br />Main thehra raha zameen chalne lagi<br />Dhadrka yeh dil saans thamne lagi<br />Haan kya yeh mera pehla pehla pyaar hai<br />Sajna kya yeh mera pehla pehla pyaar hai<br />Tere hi rang se yun main to rangeen hoon sanam<br /><br />Paake tujhe khud se hi kho rahi hoon sanam<br />O maahiya ve tere ishq mein haan doobke<br />Paar main ho rahi hoon sanam<br />Saagar hua pyaasa raat jagne lagi<br />Sholo ke dil mein bhi aag jalne lagi</p><p>Main thehri lagi zameen chalne lagi<br />Dhadrka yeh dil saans thamne lagi<br />Kya yeh mera pehla pehla pyaar hai<br />Sajna . . .<br /><br />Kya yeh mera pehla pehla pyaar hai<br />Suraj hua madham<br />Chaand jalne laga<br />Aasmaan yeh haai<br />Kyoon pighalne laga</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "OLD",
+    "title": "OH MY DARLING",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK11.mp3",
+    "lyrics": "<p>Aaj ke ladke i tell you<br />Kitne lallu what to do<br />Aaj ke ladke i tell you<br />Kitne lallu what to do<br />Koi mujhe pucche how are<br />You koi mujhe bole how do you do<br />Kabhi koi mujhse na kahe<br />Oh my darling i love you<br />Oh my darling i love you<br />Oh my darling i love you</p><p><br />Aaj ki ladki i tell you<br />Nakhre waali sun le tu<br />Aaj ki ladki i tell you<br />Nakhre waali sun le tu<br />Na mein pucho how are<br />You na main bolu how do you do<br />Abhi yahin main kehta hun<br />Oh my darling i love you<br />Oh my darling i love you<br />Oh my darling i love you</p><p>Aaj ke ladke i tell you<br />Kitne lallu what to do<br />Roj milo chupke chupke<br />Pyaar kare chupke chupke<br />Hum roj mile chupke chupke<br />Pyaar kare chupke chupke<br />Main kab kissi se darta hun<br />Main to tumpe marta hun<br />Main kaise yeh maanon chal</p><p>Mera haath pakad le</p><p>Lo haath padkad ke main<br />Bolon oh my darling i love you<br />Oh my darling i love you<br />Oh my darling i love you<br />Aaj ke ladke i tell you<br />Kitne lallu what to do</p><p>Achcha to chalo pyaar kare<br />Saath samundar paar kare<br />Achcha to chalo pyaar kare<br />Saath samundar paar kare<br />Tere saath na aau main raaste<br />Mein dub na jaaon main<br />Pyaar mein jo dub gaye<br />Yaar wohi to paar huve</p><p>Aisa hai to sun soniya<br />Oh my darling i love you<br />Oh my darling i love you<br />Oh my darling i love you<br />Aaj ke ladke i tell you<br />Aaj ke ladke i tell you</p><p><br />Na mein pucho how are<br />You na mein bolo how do you do<br />Abhi yahan hum kehte hai<br />Oh my darling i love you<br />Oh my darling i love you<br />Come on everybody sing with me<br />Oh my darling i love you<br />Oh my darling i love you<br />Oh my darling i love you</p><p>Oh my darling i love you.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "OLD",
+    "title": "SONI SONI",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK12.mp3",
+    "lyrics": "<p>&ndash;MALE CHORUS&ndash;<br />O ho ho ho ho ho, oh oh ho ho</p><p>&ndash;FEMALE CHORUS&ndash;<br />Ho ho ho ho ho ho,<br />ho ho ho ho ho ho ho</p><p>&ndash;CHORUS&ndash;<br />Oh ho ho ho ho ho, oh oh oh oh</p><p>&ndash;MALE 1&ndash;<br />Ae hey hey hey hey hey hey,<br />oh ho ho ho ho ho ho<br />Ho ho ho oh, ho ho ho<br />Soni soni ankhiyon waali<br />Dil deja ya deja tu gaali<br />Soni soni ankhiyon waali<br />Dil deja ya deja re humko tu gaali</p><p>&ndash;MALE CHORUS&ndash;<br />Hum tere deewane hain,<br />hum aashiq mastaane hain &ndash; 2</p><p>&ndash;FEMALE 1&ndash;<br />Jhoothi jhoothi batiyon waale<br />Bholi soorat, dil ke hai kaale<br />Jhoothi jhoothi batiyon waale<br />Bholi soorat, dil ke hai dil dil yeh kaale</p><p>&ndash;FEMALE CHORUS&ndash;<br />Yeh aashiq lut jaane hain,<br />dil sab de tut jaane hain &ndash; 2</p><p>Aah aah aah&hellip;</p><p>&ndash;MALE 2&ndash;<br />Jaa kudiye jo kar le<br />Gora badan tera rang diya</p><p>&ndash;FEMALE 2&ndash;<br />Oye mundiya, vaada raha<br />Suli pe jo naa tujhe tang diya</p><p>&ndash;MALE 2&ndash;<br />Main suli pe chad jaava<br />Tu bol, abhi mar jaava</p><p>&ndash;FEMALE 2&ndash;<br />Main tujhse agar darr jaava<br />Dil naam tere kar jaava</p><p>&ndash;MALE 1&ndash;<br />Yaad rakhna mera kehna<br />Yeh dil ek din mil jaane hain</p><p>&ndash;MALE CHORUS&ndash;<br />Hum tere deewane hain,<br />hum aashiq mastaane hain</p><p>&ndash;FEMALE CHORUS&ndash;<br />Yeh aashiq lut jaane hain,<br />dil sab de tut jaane hain</p><p>&ndash;CHORUS&ndash;<br />Aah aah aah aah&hellip;</p><p>&ndash;MALE 3&ndash;<br />Hmm, kyoon mujhse door khadi hai</p><p>&ndash;FEMALE 3&ndash;<br />Badi masti tujhe chadi hai</p><p>&ndash;MALE 3&ndash;<br />Kyoon mujhse door khadi hai,<br />dil ke nazdeek badi hai<br />Aa lag jaa gale tu kisi bahaane se</p><p>&ndash;MALE CHORUS&ndash;<br />Bahaane se, bahaane se</p><p>&ndash;FEMALE 3&ndash;<br />Badi masti tujhe chadi hai,<br />har ladki door khadi hai<br />Main aagayi phir bhi tere bulaane se</p><p>&ndash;FEMALE CHORUS&ndash;<br />Bulaane se</p><p>&ndash;MALE 1&ndash;<br />Soch kar tha tujhe aana<br />Aakar vaapas naa jaana</p><p>&ndash;MALE CHORUS&ndash;<br />Hum tere deewane hain,<br />hum aashiq mastaane hain</p><p>&ndash;FEMALE CHORUS&ndash;<br />Yeh aashiq lut jaane hain,<br />dil sab de tut jaane hain</p><p>&ndash;CHORUS&ndash;<br />Aah aah aah aah&hellip;</p><p>&ndash;MALE 4&ndash;<br />Gham ho ya koi khushi<br />Purva ka jhonka hai<br />Ek aaye ek jaayega<br />Kyoon dil ko roka hai</p><p>&ndash;FEMALE 4&ndash;<br />Is dil ko humne nahin<br />Hamein dil ne roka hai<br />Koi bataa de zara<br />Kya sach, kya dhoka hai</p><p>&ndash;MALE 1&ndash;<br />Ye duniya saari badi hai pyaari<br />Yahi ek sach hai,<br />yeh sab rang bade suhaane hain</p><p>&ndash;MALE CHORUS&ndash;<br />Hum tere deewane hain,<br />hum aashiq mastaane hain</p><p>&ndash;FEMALE CHORUS&ndash;<br />Yeh aashiq lut jaane hain,<br />dil sab de tut jaane hain</p><p>&ndash;ALL MALES&ndash;<br />Soni soni ankhiyon waali<br />Dil deja ya deja tu gaali</p><p>&ndash;ALL FEMALES&ndash;<br />Jhoothi jhoothi batiyon waale<br />Bholi soorat, dil ke hai,<br />dil ke yeh kaale</p><p>&ndash;MALE CHORUS&ndash;<br />Hum tere deewane hain,<br />hum aashiq mastaane hain</p><p>&ndash;FEMALE CHORUS&ndash;<br />Yeh aashiq lut jaane hain,<br />dil sab de tut jaane hain</p><p>&ndash;MALE CHORUS&ndash;<br />Hum tere deewane hain,<br />hum aashiq mastaane hain</p><p>&ndash;FEMALE CHORUS&ndash;<br />Yeh aashiq lut jaane hain,<br />dil sab de tut jaane hain</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "OLD",
+    "title": "HOGYA HAI TUJHKO",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK13.mp3",
+    "lyrics": "<p>Na jaane mere<br />Dil ko kya ho gaya<br />Abhi to yahin<br />Tha abhi<br />Kho gaya</p><p>Na jaane mere<br />Dil ko kya ho gaya<br />Abhi to yahin<br />Tha abhi<br />Kho gaya<br />Na jaane mere<br />Dil ko kya ho gaya<br />Abhi to yahin<br />Tha abhi<br />Kho gaya</p><p>Ho gaya hai tujhko to pyar sajna<br />Laakh kar le tu inakaar sajna<br />Ho gaya hai tujhko to pyar sajna<br />Laakh kar le tu inakaar sajna<br />Diladaar sajna<br />Hai yeh pyaar sajna<br />Aa.aa.ho.aa&hellip;<br />Ho gaya hai tujhko to pyar sajna<br />Laakh kar le tu inakaar sajna<br />Diladaar sajna<br />Hai yeh pyaar sajna<br />Dekha na tune<br />Mudake bhi pichhe<br />Kuch der to main ruka tha<br />Jab dil ne tujh ko<br />Rokana chaha<br />Door tu ja chuka tha</p><p>Hua kya<br />Naa jaana<br />Yeh dil kyon<br />Diwana<br />Ho gaya hai tujhko to pyar sajna<br />Laakh kar le tu inakaar sajna<br />Ho gaya hai tujhko to pyar sajna<br />Laakh kar le tu inakaar sajna<br />Diladaar sajna<br />Hai yeh pyaar sajna<br />Aye waqt ruk jaa<br />Tham jaa thahar jaa<br />Wapas jara daud pichhe<br />Main chhod aayi<br />Khud ko jahaan pe<br />Woh rah gaya mod pichhe<br />Kahaan main<br />Kahaan tu<br />Yeh kaisa<br />Hai jaadu<br />Arrey Ho gaya hai tujhko to pyar sajna<br />Laakh kar le tu inakaar sajna<br />Ho gaya hai tujhko to pyar sajna<br />Laakh kar le tu inakaar sajna<br />Diladaar sajna<br />Hai yeh pyaar sajna<br />Aa.aa.aa.aa<br />Na jaane mere<br />Dil ko kya ho gaya<br />Abhi to yahin<br />Tha abhi<br />Kho gaya<br />Ho gaya</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "OLD",
+    "title": "MERE KHWABON JO",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK14.mp3",
+    "lyrics": "<p>Mere Khwaabon Mein Jo Aaye</p><p>Aake Mujhe Chhed Jaaye</p><p>Mere Khwaabon Mein Jo Aaye</p><p>Aake Mujhe Chhed Jaaye</p><p>Use Kahon Kabhi Saamne To Aaye</p><p>Mere Khwaabon Mein Jo Aaye</p><p>Aake Mujhe Chhed Jaaye</p><p>Use Kahon Kabhi Saamne To Aaye</p><p>Mere Khwaabon Mein Jo Aaye</p><p><br />Kaisa Hai Kaun Hai Wo Jaane Kahan Hai</p><p>Ho Kaisa Hai Kaun Hai Woh Jaane Kahan Hai</p><p>Jiske Liye Mere Hoton Pe Aah Hai</p><p>Apna Hai Ya Begana Hai Wo</p><p>Sach Hai Ya Koi Afsana Hai Wo</p><p>Dekhe Ghur Ghur Ke Yunhi Door Door Se</p><p>Use Kahon Meri Neend Na Churaye</p><p>Mere Khwaabon Mein Jo Aaye</p><p>Aake Mujhe Chhed Jaaye</p><p>Use Kahon Kabhi Saamne To Aaye</p><p>Mere Khwaabon Mein Jo Aaye</p><p><br />Jadoo Se Jaise Koi Chalne Laga Hai</p><p>Ho Jadoo Se Jaise Koi Chalne Laga Hai</p><p>Main Kya Karun Dil Machalne Laga Hai</p><p>Tera Deewana Kehta Hai Wo</p><p>Chup Chup Se Phir Kyon Rahta Hai Wo</p><p>Kar Baitha Bhool Wo Le Aaya Phool Wo</p><p>Use Kaho Jaaye Chaand Leke Aaye</p><p>Mere Khwaabon Mein Jo Aaye</p><p>Aake Mujhe Chhed Jaaye</p><p>Mere Khwaabon Mein Jo Aaye</p><p>Aake Mujhe Chhed Jaaye</p><p>Use Kahon Kabhi Saamne To Aaye.</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "OLD",
+    "title": "YEH LADKA HAI ALLAH",
+    "image": "file:///android_asset/image/INOL.png",
+    "link_mp3": "mp3/INWASK15.mp3",
+    "lyrics": "<p>Banno<br />Ki mehndi kya kehna<br />Banno<br />Ka joda kya kehna<br />Banno<br />Lage hai phoolon ka gehna</p><p>Banno<br />Ki aankhen kajrari<br />Banno<br />Lage sabse pyaari<br />Banno<br />Pe jaaon main vaari vaari</p><p>Ho ho.. o.. ho..</p><p>Banno ki saheli..<br />Resham ki dori<br />Chhup chhup ke sharmaaye<br />Dekhe chori chori (Repeat once)</p><p>Yeh maane ya na maane main toh ispe mar gaya<br />Yeh ladki hai Allah, hai hai re Allah<br />Yeh ladki hai Allah, hai hai re Allah</p><p>Babul ki galiyaan..<br />Na chad ke jaana<br />Paagal deewana..<br />Isko samjhana (Repeat once)</p><p>Dekho ji dekho yeh to mere peeche pad gaya<br />Yeh ladka hai Allah, hai hai re Allah<br />Yeh ladka hai Allah, hai hai re Allah</p><p>Lab kahe na kahe<br />Bolti hai nazar<br />Pyaar nahin chupta..<br />Yaar chhupaane se<br />(Pyaar nahin chupta..<br />Yaar chhupaane se)<br />Aa..roop ghoonghat mein ho<br />Toh suhana lage<br />Baat nahin banti yaar bataane se<br />Yeh dil ki baatein dil hi jaane ya jaane khuda</p><p>Yeh ladki hai Allah, hai hai re Allah<br />Yeh ladka hai Allah, hai hai re Allah</p><p>Mangne se kabhi<br />Haath milta nahin<br />Jodiyaan banti hai..<br />Pehle se sabki<br />(Jodiyaan banti hai..<br />Pehle se sabki)</p><p>Ho..leke baaraat ghar<br />Tere aaonga main<br />Meri nahin yeh toh<br />Marzi hai rab ki</p><p>Arey ja re ja yun<br />Jhooti muthi baatein na bana</p><p>Yeh ladki hai Allah, hai hai re Allah<br />Yeh ladki hai Allah, hai hai re Allah</p><p>Banno ki saheli..<br />Resham ki dori<br />Chhup chhup ke sharmaaye<br />Dekhe chori chori</p><p>Babul ki galiyaan..<br />Na chad ke jaana<br />Paagal deewana..<br />Isko samjhana</p><p>Yeh maane ya na maane main toh ispe mar gaya<br />Yeh ladki..<br />Yeh ladki hai Allah, hai hai re Allah</p><p>Yeh ladka hai Allah, hai hai re Allah</p><p>Ye.. yeh ladki hai Allah, hai hai re Allah</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "ROMATIC",
+    "title": "DEKHA HAI PEHLI BAAR",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK16.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 17,
+    "name_category": "ROMATIC",
+    "title": "DIL KA KYA KRE SAHIB",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK17.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 18,
+    "name_category": "ROMATIC",
+    "title": "HAAN MUJHE PYAR HUA",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK18.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 19,
+    "name_category": "ROMATIC",
+    "title": "HAR DIL JO PYAR KAREGA",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK19.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 20,
+    "name_category": "ROMATIC",
+    "title": "KAGAJ KALAM DAWAT",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK20.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 21,
+    "name_category": "ROMATIC",
+    "title": "MERE DIL NE CHUPKE",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK21.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 22,
+    "name_category": "ROMATIC",
+    "title": "MERE PAON MAIN MEH",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK22.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 23,
+    "name_category": "ROMATIC",
+    "title": "TERI CHUNARIYA DIL LE",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK23.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 24,
+    "name_category": "ROMATIC",
+    "title": "TU CHEEJ BADI HAI",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK24.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 25,
+    "name_category": "ROMATIC",
+    "title": "TUNE DIL MERA TODA",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK25.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  },
+  {
+    "id": 26,
+    "name_category": "ROMATIC",
+    "title": "ZINDAGI KI RAHOON",
+    "image": "file:///android_asset/image/INTIC.png",
+    "link_mp3": "mp3/INWASK26.mp3",
+    "lyrics": "LYRICS COMING SOON..."
+  }
+  ]
+}
