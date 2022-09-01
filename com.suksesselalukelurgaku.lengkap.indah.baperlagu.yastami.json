@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "INDAH A",
+    "image": "file:///android_asset/image/YA.png"
+  },
+    {
+      "id": 2,
+      "name_category": "INDAH B",
+      "image": "file:///android_asset/image/YB.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "INDAH A",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI1.mp3",
+    "lyrics": "<p>Tiara menggamit kenangan zaman persekolahan<br />Tiara ku mimpi kita bersanding atas kayangan<br />Seakan bisa ku sentuh peristiwa semalam<br />Di malam pesta engkau bisikkan<br />Kata azimat di telinga</p><p>Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi<br />Hidup tertekan</p><p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasahi bumi<br />Di penjara terkurung terhukum<br />Hanya bertemankan sepi</p><p>Bisakah kau menghargai<br />Cintaku yang suci ini<br />Oh Tiara, pedihnya<br />Dapatkah kau merasakan</p><p>Jika kau bertemu aku begini<br />Berlumpur darah dan keringat membasahi bumi<br />Di penjara terkurung terhukum<br />Hanya bertemankan sepi</p><p>Bisakah kau menghargai<br />Cintaku yang suci ini<br />Oh Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh Tiara, pedihnya<br />Dapatkah kau merasakannya</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "INDAH A",
+    "title": "MAAFKAN AKU",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI2.mp3",
+    "lyrics": "<p>Tak bisa ku lupa saat-saat indah bersamamu<br />Semua cerita mungkin kini hanya tinggal kenangan<br />Ku harus pergi meninggalkanmu di dalam sepiku<br />Bukan inginku 'tuk menyakiti perasaanmu<br />Maafkan aku</p><p>Maafkan aku yang tak bisa menunggu hatimu<br />Lupakan saja diriku untuk selama-Iamanya<br />Ku harus pergi meninggalkanmu di dalam sepiku<br />Bukan inginku tuk menyakiti perasaanmu<br />Maafkan aku</p><p>Tidurlah sayangku mentari tlah menunggu<br />Sambutlah pagi nanti dengan hati tersenyum<br />Bermimpilah cinta dengan segenap rasa<br />Kini tibalah saatnya kita harus berpisah</p><p>Maafkan aku yang tak bisa menunggu hatimu<br />Lupakan saja diriku untuk selama-Iamanya<br />Ku harus pergi meninggalkanmu di dalam sepiku<br />Bukan inginku tuk menyakiti perasaanmu<br />Maafkan aku</p><p>Tidurlah sayangku mentari tlah menunggu<br />Sambutlah pagi nanti dengan hati tersenyum<br />Bermimpilah cinta dengan segenap rasa<br />Kini tibalah saatnya kita harus berpisah</p><p>Maafkanlah aku yang tak bisa menunggu<br />Lupakan saja diriku untuk selama-Iamanya</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "INDAH A",
+    "title": "HANYA SATU PERSINGGAHAN",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI3.mp3",
+    "lyrics": "<p>Di sini kasih pernah berbunga<br />Tiada harum, tiada warna<br />Di sini cinta pernah membara<br />Tanpa bahang dan tanpa apinya</p><p>Begini yang kurasa<br />Hidup kita berdua</p><p>Di sini langit mendung selalu<br />Tiada cahya menyinariku<br />Di sini aku tiada berdaya<br />Mengikut kata tanpa bicara<br />Kerana engkau tahu<br />Aku tidak sepadan denganmu</p><p>Hubungan kita suatu persinggahan<br />Bukan pengabadian yang rela<br />Pemergianku, oh, kerana terpaksa<br />Demi hidup yang lebih sempurna</p><p>Anggaplah kehadiranku<br />Hanya satu persinggahan<br />Aku tidak menjanjikan mahligai impian<br />Sebagaimana kau harapkan</p><p>Biarlah jauh dari pandangan<br />Dari pada dekat penuh siksa<br />Biar berduka, biar melara<br />Dari sengketa sepanjang masa</p><p>Janganlah engkau harap<br />Ku menghambakan diri</p><p>Nanti kau tahu artinya sepi<br />Bagaikan pisau mengiris hati<br />Nanti kau tahu artinya rindu<br />Bagai tersusuk duri sembilu</p><p>Batin akan tersiksa<br />Jasad pasti merana olehnya</p><p>Hubungan kita suatu persinggahan<br />Bukan pengabadian yang rela<br />Pemergianku, oh, kerana terpaksa<br />Demi hidup yang lebih sempurna<br />Anggaplah kehadiranku<br />Hanya satu persinggahan<br />Aku tidak menjanjikan mahligai impian<br />Sebagaimana kau harapkan</p><p>Hanya satu persinggahan</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "INDAH A",
+    "title": "BENCI KU SANGKA SAYANG",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI4.mp3",
+    "lyrics": "<p>Masih membasah luka<br />Yang dulu pernah kau cipta<br />Kau sayat kembali<br />Diatas derita lama<br />Tak pernah menjadi impian<br />Dan hitam bukanlah harapan<br />Mengering air mata<br />Mengenang percintaan<br />Yang kini tinggal igauan</p><p>Masih segar di ingatan<br />Kenangan kita bersama<br />Cinta yang telah berlalu<br />Ku simpan jadi sejarah<br />Biarlah ku jalani lara<br />Biarlah kan ku telan duka<br />Semoga kau mengerti<br />Tak pernah ku restui<br />Pemergian dirimu<br />Sungguh menyayat hati</p><p>Benar kata pujangga<br />Selasih ku sangka mayang-mayang<br />Ku sangkakan daun selada<br />Orang benci ku sangka sayang<br />Namun diri tak merasa<br />Tetapi apakan daya</p><p>Kenang-kenanglah aku sayang<br />Rinduilah aku dalam ingatanmu<br />Yang telah tinggalkan ku selama ini<br />Jauh mengejar mimpi yang tiada pasti<br />Biar hujan datang berturun<br />Takkan tawar rasa lautan cinta<br />Ku khayalkan kasihmu mengekalkan rasa<br />Kiranya gerimismu tawarkan lautan</p><p>Benar kata pujangga<br />Selasih ku sangka mayang-mayang<br />Ku sangkakan daun selada<br />Orang benci ku sangka sayang<br />Namun diri tak merasa<br />Tetapi apakan daya</p><p>Kenang-kenanglah aku sayang<br />Rinduilah aku dalam ingatanmu<br />Yang telah tinggalkan ku selama ini<br />Jauh mengejar mimpi yang tiada pasti<br />Biar hujan datang berturun<br />Takkan tawar rasa lautan cinta<br />Ku khayalkan kasihmu mengekalkan rasa<br />Kiranya gerimismu tawarkan lautan</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "INDAH A",
+    "title": "SURAT UNDANGAN",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI5.mp3",
+    "lyrics": "<p>Tak pernah kubayangkan<br />Begini jadinya<br />Suratku engkau balas<br />Dengan undangan</p><p>Kalau memang tak mau<br />Baiknya kau katakan<br />Agar ku tak berharap<br />Cinta darimu</p><p>Kurela sudah begini jadinya<br />Cintaku padamu</p><p>Surat undanganmu, pernikahan itu<br />Kugenggam erat di tanganku<br />Hanya doa restu yang kupersembahkan<br />Semoga engkau bahagia</p><p>Sendiri lagi seperti dahulu<br />Tanpa dirimu di sisiku</p><p>Tetes air mataku, hatiku pedih<br />Membasahi undangan pernikahanmu</p><p>Kurela sudah begini jadinya<br />Cintaku padamu</p><p>Surat undanganmu, pernikahan itu<br />Kugenggam erat di tanganku<br />Hanya doa restu yang kupersembahkan<br />Semoga engkau bahagia</p><p>Sendiri lagi seperti dahulu<br />Tanpa dirimu di sisiku<br />Sendiri lagi seperti dahulu<br />Tanpa dirimu di sisiku</p><p>Tak pernah kubayangkan<br />Begini jadinya</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "INDAH A",
+    "title": "SEPANJANG JALAN KENANGAN",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI6.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "INDAH A",
+    "title": "DISINI DIBATAS KOTA INI",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI7.mp3",
+    "lyrics": "<p>Sengaja aku datang ke kotamu<br />Lama kita tidak bertemu<br />Ingin diriku mengulang kembali<br />Berjalan-jalan bagai tahun lalu</p><p>Sepanjang jalan kenangan</p><p>Kita slalu bergandeng tangan<br />Sepanjang jalan kenangan<br />Kau peluk diriku mesra<br />Hujan yang rintik-rintik<br />Di awal bulan itu<br />Penambah nikmatnya malam syahdu</p><p>Walau diriku kini tlah berdua<br />Dirimu pun tiada berbeda<br />Namun kenangan spanjang jalan itu<br />Tak mungkin lepas dari ingatanku</p><p>Sepanjang jalan kenangan<br />Kita selalu bergandeng tangan<br />Sepanjang jalan kenangan<br />Kau peluk diriku mesra<br />Hujan yang rintik- rintik<br />Di awal bulan itu<br />Penambah nikmatnya malam syahdu</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "INDAH A",
+    "title": "BUIH JADI PERMADANI",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI8.mp3",
+    "lyrics": "<p>Dinginnya angin malam ini<br />Menyapa tubuhku<br />Namun tidak dapat di inginkan panasnya<br />Hatiku ini</p><p>Terasa terhempasnya kelakian ku ini<br />Dengan sikapmu<br />Apakah karena aku<br />Insan kekurangan<br />Mudahnya kau mainkan</p><p>Oh mungkinkah diri ini<br />Dapat merubah buih<br />Yang memutih<br />Menjadi permadani<br />Seperti pinta<br />Yang kau ucap<br />Dalam janji cinta</p><p>Juga mustahil bagiku<br />Menggapai bintang dilangit<br />Siapalah diriku<br />Hanya insan biasa<br />Semua itu<br />Sungguh aku<br />Tiada mampu</p><p>Salah aku juga<br />Karena jatuh cinta<br />Insan seperti dirimu seanggun bidadari<br />Seharusnya aku<br />Cerminkan diriku<br />Sebelum tirai hati<br />Aku buka</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "INDAH A",
+    "title": "ADA RINDU UNTUKMU",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI9.mp3",
+    "lyrics": "<p>Kapan lagi kita berbincang dan berterus terang<br />Kapan, kapankah lagi<br />Kurasakan sunyi mencekam<br />Hati pun tersiksa<br />Ada rindu untukmu</p><p>Seputih gaunmu, kekasih<br />Begitu hatiku<br />Tak ingin kau jauh dariku<br />Lembutnya sinar di matamu, sayang<br />Kau begitu seadanya<br />Namun bergetar sendu hati ini</p><p>Kapan lagi kita berbincang dan berterus terang<br />Kapan, kapankah lagi<br />Kurasakan sunyi mencekam<br />Hati pun tersiksa<br />Ada rindu untukmu</p><p>Seputih gaunmu, kekasih<br />Begitu hatiku<br />Tak ingin kau jauh dariku<br />Lembutnya sinar di matamu, sayang<br />Kau begitu seadanya<br />Namun bergetar sendu hati ini</p><p>Sayang<br />Hati ini</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "INDAH A",
+    "title": "MENCARI ALASAN",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI10.mp3",
+    "lyrics": "<p>Ikhlasnya hati sering kali disalah arti<br />Tulusnya cinta tidak pernah engkau hargai<br />Berlalu pergi dengan kelukaan ini<br />Ku mengalah ku bersalah</p><p>Berpaling muka bila saling bertatap mata<br />Seolah kita tiada pernah saling mencinta<br />Mencari sebab serta mencari alasan<br />Supaya tercapai hasratmu</p><p>Baca Juga: Diajak Gibran Rakabuming untuk Sholat Ied, Sikap Santun Jan Ethes Jadi Sorotan</p><p>Manis di bibir memutar kata<br />Malah kau tuduh akulah segala penyebabnya<br />Siapa terlena pasti dia terpana bujuknya rayunya suaranya<br />Yang meminta simpati dan harapan</p><p>Engkau pastinya tersenyum dengan pengunduran diriku<br />Tetapi bagi diriku suatu ketenangan<br />Andainya kita terus bersama belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p><p>Ada baiknya bila tidak lagi bersama<br />Terasa jauh diriku ini dengan dosa<br />Aku tinggalkan walau tanpa kerelaan<br />Yang nyata kau tidak berubah</p><p>Berpaling muka bila saling bertatap mata<br />Seolah kita tiada pernah saling mencinta<br />Mencari sebab serta mencari alasan<br />Supaya tercapai hasratmu</p><p>Engkau pastinya tersenyum dengan pengunduran diriku<br />Tetapi bagi diriku suatu ketenangan<br />Andainya kita terus bersama belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p><p>Katakan apa yang kau ingin selagi kau dapat berkata<br />Memang begini sikapmu semenjak dahulu<br />Andainya kita terus bersama belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "INDAH A",
+    "title": "EMAS HANTARAN",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI11.mp3",
+    "lyrics": "<p>Berakhir sudah impian cinta<br />Tinggallah puing-puingnya<br />Mimpi yang indah tak jadi nyata<br />Terkikis ombak menerpa</p><p>Aku yang dulu engkau sayangi<br />Mengapa kau tinggal pergi<br />Oh, di manakah janji yang suci<br />Yang katamu tak berbagi?</p><p>Ku ingin kau mengerti<br />Apa yang kualami<br />Takdir diriku</p><p>Harus terima keputusanmu</p><p>Andaikan aku boleh bertanya<br />Apakah ada salah diriku<br />Agar kujauh<br />Dari prasangka rasa cemburu</p><p>Tiada salah diriku kasih</p><p>Salah pada nasibku sendiri<br />Karena tak punya<br />Emas permata, hantaran cinta</p><p>Aku yang dulu engkau sayangi<br />Mengapa kau tinggal pergi<br />Oh, di manakah janji yang suci<br />Yang katamu tak berbagi?</p><p>Ku ingin kau mengerti<br />Apa yang kualami<br />Takdir diriku</p><p>Harus terima keputusanmu</p><p>Andaikan aku boleh bertanya<br />Apakah ada salah diriku<br />Agar kujauh<br />Dari prasangka rasa cemburu</p><p>Tiada salah diriku kasih</p><p>Salah pada nasibku sendiri<br />Karena tak punya<br />Emas permata, hantaran cinta</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "INDAH A",
+    "title": "ADA UNTUKMU",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI12.mp3",
+    "lyrics": "<p>Awal ku mengenalmu<br />Tersita seluruh hatiku<br />Oh, indahnya dirimu<br />Ku jatuh hati padamu</p><p>Tak terasa waktu berlalu<br />Kini kau tlah jadi milikku<br />Betapa bahagianya aku<br />Saat kau ada di sisiku</p><p>Kini tiba saatnya<br />Kita harus melangkah<br />Temani diriku di sisa waktumu</p><p>Genggamlah tanganku, bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang 'kan slalu<br />Menjaga dirimu<br />Yakinkan hatimu temaniku<br />Di setiap langkah-langkahku<br />Ku di sini, di sampingmu<br />Ku kan slalu ada untukmu</p><p>Kini tiba saatnya<br />Kita harus melangkah<br />Temani diriku di sisa waktumu</p><p>Genggamlah tanganku, bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang 'kan slalu<br />Menjaga dirimu</p><p>Yakinkan hatimu temaniku<br />Di setiap langkah-langkahku<br />Ku di sini, di sampingmu<br />Ku kan s'lalu ada untukmu</p><p>Genggamlah tanganku, bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang 'kan slalu<br />Menjaga dirimu</p><p>Yakinkan hatimu temaniku<br />Di setiap langkah-langkahku<br />Ku di sini, di sampingmu<br />Ku kan slalu ada untukmu</p><p>Genggamlah tanganku, bersamaku<br />Kau kan menentukan arah<br />Bersama diriku yang 'kan s'lalu<br />Menjaga dirimu</p><p>Yakinkan hatimu temaniku<br />Di setiap langkah-langkahku<br />Ku di sini, di sampingmu<br />Ku kan slalu ada untukmu<br />Ku di sini, ku kan slalu ada untukmu</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "INDAH A",
+    "title": "BERLAYAR TAK BERTEPI",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI13.mp3",
+    "lyrics": "<p>Berulang kali ku mencoba bujuk hatimu<br />Lupakan semua kenangan<br />Namun mimpi bertemu lagi<br />di saat engkau tiada di sisi</p><p>Ku berpegang pada janji<br />Tercipta antara kita dulu<br />Hilangmu tiada berganti<br />Biarlah begini</p><p>Ku berlayar di lautan tidak bertepian<br />Sesekali disadarkan ombak yang mendatang<br />Aku seperti hilang puncak arah dan tujuan</p><p>Aku puisikan namamu bersama rindu di dalam sendu<br />Ku berpegang pada janji<br />Tercipta antara kita dulu<br />Hilangmu tiada berganti<br />Biarlah begini</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "INDAH A",
+    "title": "MEMANDANGMU",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI14.mp3",
+    "lyrics": "<p>Memandangmu<br />Walau selalu<br />Tak akan pernah beri<br />Jemu di hatiku<br />Menyapamu<br />Walau selalu<br />Masih terasa merdu<br />Bagai di awai jumpa<br />Mencari apa yang aku cari<br />Merangkai rindunya hatiku<br />Bulan bawa bintang menari<br />Iringi langkahku<br />Malam hadir bawa diriku<br />Berjumpa denganmu<br />Dua hati satu tujuan<br />Melangkah bersama<br />Cinta hadir bawa diriku<br />Menyentuh indahnya</p><p>Memelukmu<br />Walau selalu<br />Tak akan pernah sanggup<br />Aku melepasnya<br />Membelaimu<br />Walau selalu<br />Masih terasa harum<br />Lembut di hatiku<br />Mencari apa yang aku cari<br />Merangkai rindunya hatiku<br />Bulan bawa bintang menari<br />Iringi langkahku...<br />Malam hadir bawa diriku<br />berjumpa denganmu<br />Dua hati satu tujuan<br />Melangkah bersama<br />Cinta hadir bawa diriku<br />Menyentuh indahnya</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "INDAH A",
+    "title": "KUCARI JALAN TERBAIK",
+    "image": "file:///android_asset/image/YA.png",
+    "link_mp3": "mp3/INYATI15.mp3",
+    "lyrics": "<p>Sepanjang kita masih terus begini<br />Takkan pernah ada damai bersenandung<br />Kemesraan antara kita berdua</p><p>Sesungguhnya keterpaksaan saja<br />Senyum dan tawa hanya sekedar saja<br />Sebagai pelengkap sempurnanya sandiwara</p><p>Berawal dari manisnya kasih sayang<br />Terlanjur kita hanyut dan terbuai<br />Kucoba bertahan mendampingi dirimu</p><p>Baca Juga: Prakiraan Cuaca Kota Semarang Jumat 11 Maret 2022</p><p>Walau kadang kala tak seiring jalan<br />Kucari dan selalu kucari jalan terbaik<br />Agar tiada penyesalan dan air mata<br />Senyum dan tawa hanya sekedar saja<br />Sebagai pelengkap sempurnanya sandiwara</p><p>&nbsp;</p><p>Berawal dari manisnya kasih sayang<br />Terlanjur kita hanyut dan terbuai<br />Kucoba bertahan mendampingi dirimu<br />Walau kadang kala tak seiring jalan</p><p>Kucari dan selalu kucari jalan terbaik<br />Agar tiada penyesalan dan air mata<br />Agar tiada penyesalan dan air mata.***</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "INDAH B",
+    "title": "HATI SAPA TAK LUKA",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "INDAH B",
+    "title": "JANGAN SALAH MENILAI",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "INDAH B",
+    "title": "AKHIRNYA AKU MENEMUKANMU",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "INDAH B",
+    "title": "CINTA SAMPAI MATI",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI19.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "INDAH B",
+    "title": "CINTA TAK HARUS MEMILIKI",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "INDAH B",
+    "title": "DURI DURI",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "INDAH B",
+    "title": "HARGA DIRIKU",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI22.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "INDAH B",
+    "title": "JIKA ITU YANG TERBAIK",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI23.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "INDAH B",
+    "title": "KAU TIGAKAN CINTAKU",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "INDAH B",
+    "title": "MELEPAS LAJANG",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "INDAH B",
+    "title": "PENANTIAN",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI26.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "INDAH B",
+    "title": "PERGILAH KASIH",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI27.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "INDAH B",
+    "title": "PUASKAH",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI28.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "INDAH B",
+    "title": "SEBELUM CAHAYA",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI29.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "INDAH B",
+    "title": "SEJAUH MUNGKIN",
+    "image": "file:///android_asset/image/YB.png",
+    "link_mp3": "mp3/INYATI30.mp3",
+    "lyrics": ""
+  }
+  ]
+}
