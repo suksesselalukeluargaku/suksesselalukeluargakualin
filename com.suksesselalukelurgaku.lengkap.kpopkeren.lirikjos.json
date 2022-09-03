@@ -1,0 +1,364 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "BOY",
+    "image": "file:///android_asset/image/BY.png"
+  },
+    {
+      "id": 2,
+      "name_category": "GIRL",
+      "image": "file:///android_asset/image/GR.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "BOY",
+    "title": "bad decision",
+    "image": "file:///android_asset/image/BY.png",
+    "link_mp3": "mp3/GBPOR1.ogg",
+    "lyrics": "<p>No makeup, I love that sh-<br />You&rsquo;re so damn beautiful, I swear you make me sick<br />I want your love, I want a man<br />Inside my heart, there&rsquo;s nothin&rsquo; but a burning flame</p><p>If you want my love<br />Come a little bit closer<br />Don&rsquo;t make me wait</p><p>Let&rsquo;s make some bad decisions<br />I want you, ooh, baby, all of the time<br />So give me all your kisses<br />I want you Monday, Tuesday, Wednesday, baby, every night<br />And it feels like (Ooh, ah)<br />I can&rsquo;t seem to ever get you out of my mind<br />And it feels like (Ooh, ah)<br />I want you, ooh, baby, all of the time</p><p>Everybody see me lookin&rsquo; fly (Oh, yeah)<br />And I think I know the reason why (Oh, yeah)<br />&lsquo;Cause I got you right here by my side (Oh, yeah)<br />And I can&rsquo;t let you just walk away<br />If I ain&rsquo;t with ya, I&rsquo;m not okay</p><p>If you want my love (Yeah)<br />Come a little bit closer<br />Don&rsquo;t make me wait (Ooh)</p><p>Let&rsquo;s make some bad decisions<br />I want you, ooh, baby, all of the time<br />So give me all your kisses (Kisses)<br />I want you Monday, Tuesday, Wednesday, baby, every night (Every night)<br />And it feels like (Ooh, ah, yeah)<br />I can&rsquo;t seem to ever get you out of my mind<br />And it feels like (Ooh, ah)<br />I want you, ooh, baby, all of the time</p><p>Let&rsquo;s do things you always wanted<br />Have some fun and live your life<br />Help me waste a day and find a place<br />That we can face to face<br />Let me show you &rsquo;round my hood<br />There&rsquo;s bad meaning bad like bad meaning good<br />When it comes to rules, I break &rsquo;em</p><p>Let&rsquo;s make some bad decisions<br />I want you, ooh, baby, all of the time<br />So give me (Give me) all your kisses (Kisses)<br />I want you Monday, Tuesday, Wednesday, baby, every night<br />And it feels like (Ooh, yes, ah, yes)<br />I can&rsquo;t seem to ever get you out of my mind<br />And it feels like (Ooh, say what? Ah)<br />I want you, ooh, baby, all of the time (Ooh)</p>"
+  },
+    {
+      "id": 2,
+      "name_category": "BOY",
+      "title": "butter",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR2.ogg",
+      "lyrics": "<p>Smooth like butter,<br />like a criminal undercover<br />Gon' pop like trouble breaking into your heart like that (ooh)<br />Cool shade, stunner, yeah, I owe it all to my mother<br />Hot like summer, yeah, I'm making you sweat like that (break it down)</p><p>Ooh, when I look in the mirror<br />I'll melt your heart into two<br />I got that superstar glow, so<br />Ooh (do the boogie, like)</p><p>Side step, right-left, to my beat<br />High like the moon, rock with me, baby<br />Know that I got that heat<br />Let me show you 'cause talk is cheap<br />Side step, right-left, to my beat<br />Get it, let it roll</p><p>Smooth like butter, pull you in like no other<br />Don't need no Usher to remind me you got it bad<br />Ain't no other that can sweep you up like a robber<br />Straight up, I (got ya)<br />Making you fall like that (break it down)</p><p>Ooh, when I look in the mirror<br />I'll melt your heart into two<br />I got that superstar glow, so<br />Ooh (do the boogie, like)</p><p>Side step, right-left, to my beat<br />High like the moon, rock with me, baby<br />Know that I got that heat<br />Let me show you 'cause talk is cheap<br />Side step, right-left, to my beat<br />Get it, let it roll</p><p>Get it, let it roll</p><p>Get it, let it roll</p><p>Ice on my wrist, I'm that nice guy<br />Got that right body and that right mind<br />Rolling up to party, got the right vibe<br />Smooth like (butter), hate us (love us)<br />Fresh, boy, pull up and we lay low<br />All the players get moving when the bass low<br />Got ARMY right behind us when we say so<br />Let's go</p><p>Side step, right-left, to my beat (right-left, to my beat)<br />High like the moon, rock with me, baby<br />Know that I got that heat<br />Let me show you 'cause talk is cheap (you know that talk is cheap)<br />Side step, right-left, to my beat<br />Get it, let it roll</p><p>Smooth like (butter), cool shade (stunner)<br />And you know we don't stop<br />Hot like (summer), ain't no (bummer)<br />You'll be like, "Oh my God"<br />We gon' make you rock, and you say (yeah)<br />We gon' make you bounce, and you say (yeah)<br />Hotter? Sweeter! Cooler? Butter!</p><p>Get it, let it roll</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "BOY",
+      "title": "darari",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR3.ogg",
+      "lyrics": "<p>Darararararari<br />Neol bogo isseum eumagi Babe<br />Neoreul wihan mellodi mellodi Yeah<br />Nega myujeunikka jal deureobwa Play it</p><p>Sasil mariji Since seventeen yeah<br />Neol jikyeobwatji mareul mot haesseul ppun<br />Yeojeonhi ne juwil maemdora<br />Du nuneul ttel suga eopjana<br />Hoksi neodo gateun mamiljineun<br />Nan an gunggeumhae Yeah<br />Nan nega joeunikka</p><p>Ne nunbichi heundeullyeo You already know<br />Neodo wonhandaneun geol ne ipga misoga beonjinikka<br />Geugeol bonikka Bonita-nita nega<br />Naega malhaesseotjana You already know<br />Nega mame deundan geol ne gin meori nallinikka<br />Geugeol bonikka Bonita-nita nega</p><p>Darararararari<br />Neol bogo isseum eumagi Babe<br />Neoreul wihan mellodi mellodi Yeah<br />Nega myujeunikka jal deureobwa Play it<br />Darararararari<br />Neol bogo isseum eumagi Babe<br />Neoreul wihan mellodi mellodi Yeah<br />Nega myujeunikka jal deureobwa Play it</p><p>Baby ne deokbune ssodajineun aidieo<br />Gamume bi odeut nega naege isseo Pressure<br />Jogeum seotun nae pyohyeon<br />Norael billyeo I give u love<br />Modu neol hyanghae heulleo<br />Ttatteuthameul neukkyeo ne yeopeseo nan<br />Hoppang gateun ttakkeunhan sarangi chajawasseo<br />Uh ummm, Excuse me Miss<br />I L.O.V.E Y.O.U</p><p>Ne nunbichi heundeullyeo You already know<br />Neodo wonhandaneun geol ne ipga misoga beonjinikka<br />Geugeol bonikka Bonita-nita nega<br />Naega malhaesseotjana You already know<br />Nega mame deundan geol ne gin meori nallinikka<br />Geugeol bonikka Bonita-nita nega</p><p>Darararararari<br />Neol bogo isseum eumagi Babe<br />Neoreul wihan mellodi mellodi Yeah<br />Nega myujeunikka jal deureobwa Play it<br />Darararararari<br />Neol bogo isseum eumagi Babe<br />Neoreul wihan mellodi mellodi Yeah<br />Nega myujeunikka jal deureobwa Play it</p><p>Cheoeum neukkyeoboneun Love like this<br />Give me love like this<br />Show you love like this yeah<br />Ttara bulleojullae Sing like this<br />Oh sing with me<br />Han beon deo Ayo<br />Boom chicky boom<br />Can you feel my heartbeat<br />Boom chicky boom<br />Gidarigo itjana<br />Boom chicky boom<br />Doo doo doo doo</p><p>Neoege dakil bara All for you</p><p>Darararararari<br />Neol bogo isseum eumagi Babe<br />Neoreul wihan mellodi mellodi Yeah<br />Nega myujeunikka jal deureobwa Play it<br />Darararararari<br />Neol bogo isseum eumagi Babe<br />Neoreul wihan mellodi mellodi Yeah<br />Nega myujeunikka jal deureobwa Play it</p><p>Sollamipasol<br />Neol daleun mellodi<br />Sollamipasol<br />Oh fall in love with me<br />Sollamipasol<br />Neol daleun mellodi<br />Sollamipasol<br />Oh fall in love with me.</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "BOY",
+      "title": "dont flight the feeling",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR4.ogg",
+      "lyrics": "<p>Bulbiche modeun geosi<br />Deureonasseul ttae<br />Oeroun seokit wiro sijakdoen juhaeng<br />Modeun geol ileo bwaya hae<br />You must admit it<br />Geuraeya jinjja rieolhan jayureul eotji</p><p>Taekeuljjeumeun nallyeo<br />Nan jom dallaseo<br />Geugeo hana mideo Yeah<br />Je meose chwihan chae<br />Geureom jom eottae<br />Da haedo dwae neon yeah</p><p>G?op eomneun nega bogo sipda<br />Badakbut?o ollagan neojana<br />Mwol chamgoman isseo<br />Ne jeoleum omanham<br />Jigeum hal su inneun michin jit</p><p>Don't fight the feeling<br />Bonneung daero ga Babe<br />Don't fight the feeling<br />Neoreul meomchujido ma<br />Yeah Don't fight the feeling yeah<br />Don't fight the feeling yeah<br />No place no town that we can't go<br />Hangsang Why not? buditchyeo bwa<br />Jigeum neukkin geuge jeongdabiya<br />'Cause I feel like I'm ballin' oh babe</p><p>Maeil bam jugeodo<br />Achimimyeon sum swieo<br />Nuga sangsangina hae<br />Wangohan iseonge<br />Hwipsseullimyeon an dwae<br />Gwangya wireul jiljuhae</p><p>Ay yo 24/7 all day<br />Gonna be gonna be ok<br />Neukkimdaero gadeon daero<br />Shawty 'bout to turn it up<br />You got that love wit that juice<br />Follow naegero Wo ooh<br />Baby I can be ya healin'<br />Tell me why you fighting the feeling?</p><p>Salui dan han beon jinjjareul geolgo isseo<br />Nan jinsimppunin geol aljana<br />Just one in a million naigireul wonhaesseo<br />Geu sungan areumdapge binnatdeon You and I<br />Don't fight the feeling<br />Bonneung daero ga Babe<br />Don't fight the feeling<br />Neoreul meomchujido ma<br />Yeah Don't fight the feeling yeah<br />Don't fight the feeling yeah</p><p>Saenggagi maneun bam<br />Geunyang dansunhan geol wonhae<br />Saebyeokcheoreom dallyeo<br />Geop eopsi jeojilleo<br />Jigeum i neukkim nan mideul geoya<br />We can go right now</p><p>Don't fight the feeling<br />Bonneung daero ga Babe<br />Don't fight the feeling<br />Neoreul meomchujido ma<br />Yeah Don't fight the feeling yeah<br />Don't fight the feeling yeah.</p>"
+    },
+    {
+      "id": 5,
+      "name_category": "BOY",
+      "title": "drunk",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR5.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "BOY",
+      "title": "dynamite",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR6.ogg",
+      "lyrics": "<p>Cause ah, ah, I'm in the stars tonight<br />So watch me bring the fire and set the night alight</p><p>Shoes on get up in the morn<br />Cup of milk let&rsquo;s rock and roll<br />King Kong kick the drum rolling?on?like?a rolling stone</p><p>Sing?song when I&rsquo;m?walking home<br />Jump up to the top LeBron<br />Ding dong call me on my phone<br />Ice tea and a game of ping pong</p><p>This is getting heavy<br />Can you hear the bass boom, I&rsquo;m ready<br />Life is sweet as honey<br />Yeah this beat cha ching like money<br />Disco overload I&rsquo;m into that I&rsquo;m good to go<br />I'm diamond you know I glow up<br />Hey, so let's go</p><p>'Cause ah, ah, I'm in the stars tonight<br />So watch me bring the fire and set the night alight<br />Shining through the city with a little funk and soul<br />So I'ma light it up like dynamite, woah</p><p>Bring a friend join the crowd<br />Whoever wanna come along<br />Word up talk the talk just move like we off the wall<br />Day or night the sky&rsquo;s alight<br />So we dance to the break of dawn<br />Ladies and gentlemen, I got the medicine so you should keep ya eyes on the ball, huh</p><p>his is getting heavy<br />Can you hear the bass boom, I&rsquo;m ready<br />Life is sweet as honey<br />Yeah this beat cha ching like money<br />Disco overload I&rsquo;m into that I&rsquo;m good to go<br />I'm diamond you know I glow up<br />Let&rsquo;s go</p><p>'Cause ah, ah, I'm in the stars tonight<br />So watch me bring the fire and set the night alight</p><p>Shining through the city with a little funk and soul<br />So I'ma light it up like dynamite, woah</p><p>Dynnnnnanana, life is dynamite<br />Dynnnnnanana, life is dynamite<br />Shining through the city with a little funk and soul<br />So I'ma light it up like dynamite, woah</p><p>Dynnnnnanana eh<br />Dynnnnnanana eh<br />Dynnnnnanana eh<br />Light it up like dynamite</p><p>Dynnnnnanana eh<br />Dynnnnnanana eh<br />Dynnnnnanana eh<br />Light it up like dynamite</p><p>'Cause ah, ah, I'm in the stars tonight<br />So watch me bring the fire and set the night alight<br />Shining through the city with a little funk and soul<br />So I'ma light it up like dynamite</p><p>'Cause ah, ah, I'm in the stars tonight<br />So watch me bring the fire and set the night alight<br />Shining through the city with a little funk and soul<br />So I'ma light it up like dynamite, woah</p><p>Dynnnnnanana, life is dynamite<br />Dynnnnnanana, life is dynamite<br />Shining through the city with a little funk and soul<br />So I'ma light it up like dynamite, woah</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "BOY",
+      "title": "hello future",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR7.ogg",
+      "lyrics": "<p>Big dreams and big thrills<br />Flying high teomunieomneun sangsanghaebwa<br />Ne nunape dallyeodeulgo inneun byeol<br />Nakka chae bureul taewo bwa</p><p>Sijagiraneun geol neon mideul su itgenni?<br />Ijeya sarangeul al geot gata<br />Ready or not ganeun geoya nareul mideo<br />Soldiers knocking doors down, yelling out<br />Jeonjaeng jeonjaeng gatdeon sigandeureun<br />Modu dwiro bonae gaseumi sorichine<br />Dallyeoga nara bwa<br />If you're rocking with me oh, oh</p><p>H?re we go, her? we go, satellite radio<br />Nae miraee jeonhae jwo<br />On sesanggwa jeo gwangya wiro<br />Huhoe eopsi saranghaetdago malhage</p><p>Gidaryeosseo eoseo wa<br />Eodideun we're coming together<br />Amu geokjeong haji ma<br />Jal doel geoya hello future<br />Neoreul manna gachi deo binna yeah, yeah<br />Ay, we're on the way up, we're on the way up<br />Areumdaun siganman ssacha yeah, yeah, yeah<br />We're going way up, we're going</p><p>On our way up, hello future<br />On our way up, hello future</p><p>Ay miraeui neoreul jouhage dwaesseo<br />Gyeonggye wiro soneul matdaemyeon<br />Urin neomu dala isseo<br />Mwol deo chatge doelji gyeolguk utge doelji<br />Jigeumbuteon unmyeongirago hae<br />Bang, bang, bang<br />*Fire, fire, jaukan yeongi soge<br />Saranameun ki jageun kkotcheoreom*<br />**gateun sigan soge neoreul saranghago isseo**</p><p>Here we go, here we go<br />Nalgaereul pyeolchigo<br />Tto kkeokkigo dachyeodo<br />Nuguboda ganghan neojana<br />Miraeui miraeedo neol saranghal naran geol</p><p>Gidaryeosseo eoseo wa<br />Eodideun we're coming together<br />Amu geokjeong haji ma<br />Jal doel geoya hello future<br />Neoreul manna gachi deo binna yeah, yeah<br />Ay we're on the way, up we're on the way up<br />Areumdaun siganman ssacha yeah, yeah<br />We're going way up, we're going</p><p>Ay, I'm tryna' center me<br />Hey, where your center be?<br />Heundeulliji anke georeo naagal su isseulji<br />Too many cynical geokkuro gatdeon entropy<br />Geu eodijjeum neo gidarigo isseulji</p><p>Meolji ana nuneul tteo bwa<br />Naega wonhan modeun geon neoppunirago<br />We're on our way up<br />Ta beorin chae yeorin ongiui<br />Nameun jaetdeomi soge ready to clap back<br />*geuri meolji aneun peace<br />Apeun sigani daman jjalgireul barago tto wonhaetji<br />Who you gon' believe?*<br />Yeah, yeah</p><p>Gidaryeosseo eoseo wa<br />Eodideun we're coming together<br />Amu geokjeong haji ma<br />Jal doel geoya Hello future<br />Neoreul manna gachi deo binna yeah yeah<br />Ay, we're on the way up, we're on the way up<br />Areumdaun siganman ssacha yeah<br />We're going way up, we're going</p><p>We're going way up<br />Gyeote hamkke isseojwo<br />Ojik neomani nae miraeraneun geol<br />Just keep looking to the stars<br />Neol gidaryeosseo<br />Hello future</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "BOY",
+      "title": "hot sauce",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR8.ogg",
+      "lyrics": "<p>Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish</p><p>Neon mwoga gunggeumhae<br />Naneun neomanui chef<br />Igeon neoreul wihan plate<br />Yeah naega mat boyeo julge</p><p>Siganeun chungbunhae jigeum uri<br />Nunchido boji ma geujeo taste it<br />Nae bibeobeun saekdareun spicy<br />Saljjangman seuchyeodo jeongsineopji</p><p>Seoltangi ballin masen<br />Inae jilligi swiwo<br />Tteugeoun naui feelin'<br />Jigeum neukkyeotji neon<br />Neowa nae sai seonmyeonghi boin<br />Keojyeoman ganeun yeolgi<br />Nan ogameul kkaewo ne mameul kkaewo<br />Teojil geonman gateun ma skill</p><p>Golla ma dish<br />Golla ma dish<br />Golla ma dish<br />Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish</p><p>Aye bangsim hajima<br />Uh binteumi eopseul tenikka<br />Yeah neon jageukjeogin nae gamgak<br />Ooh ganeunghagenni gamdang nope</p><p>Yeah yeah beotil teogi eopjana<br />Nahginjangeul deo pulgoseo neon<br />Bon app&eacute;tit now that's right<br />Juche mot hae jakku ppajyeodeuneun mat<br />Cuz you can't stop<br />Nan kkeutkkaji get ya</p><p>Chatge doel geol every day<br />(And every night)<br />Jungdokdwae imi neon<br />Ne mameul deo seokkeonwa<br />(Ijen namgimeopsi)<br />Gyesok wonhage dwae<br />Eojireon meori ne du sonbari<br />Ikkeullyeo naege imi<br />Jom deo jageukjeogil mae sungandeuri<br />Gangnyeolhae what we gon' eat</p><p>Golla ma dish<br />(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish</p><p>Neoreul samkyeobeorin feelin'<br />Sarojabeun ireon kkeullim<br />Ttel suga eopjana<br />Jom deo gipi ppajyeodeul ttae<br />Wonhae wonhae wonhaebwa deo babe<br />Eolmadeunji deo barae barae babe<br />Neoui hyeokkeut wiro areungeoril<br />Wanbyeokaejin maseul jeulgyeo<br />You want it babe</p><p>(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />(I'm the one<br />What you want<br />What you want<br />What you want ah ya)<br />Golla ma dish<br />Hot sauce gipi dip that eh<br />Nal ttara neon twist that eh<br />Hot sauce taoreul ttae ooh<br />Immatdaero golla ma dish</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "BOY",
+      "title": "i love you",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR9.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "BOY",
+      "title": "jikjin",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR10.ogg",
+      "lyrics": "<p>Japil deut japiji anneun singiru gata neon<br />Woo woo woo woo woo woo<br />Wol hwa su mok geum to il ne saenggage nan michyeoga<br />I'm addicted to your love</p><p>I'm on fire<br />Ulbuteun i gamjeong meomchul sun eopseo<br />Gipge ppajyeo<br />Cheoncheonhi ne ane jamgigo sipeo</p><p>Igeon jungdogiya<br />I just can't get enough<br />Nan neoreul hyanghae divin' jeonbu orin<br />Heeonal su eomneun kkeullim</p><p>You're the one gidaryeowasseo<br />Barabolsurok areumdawo<br />You're the sun garil su eopseo<br />Du nuni meoreodo</p><p>Neoegero jikjin<br />Ooh<br />Jikjin<br />Neoegero jikjin<br />Ooh<br />Jikjin<br />Pedal to the metal hoo</p><p>Neoegero jikjin sarange michim<br />Dareun nyeoseokdeureun ssak da bikira<br />Donge beonjjeok natanan nae banjjok<br />Geu nunbusin useume hollyeo</p><p>Nan yeoneu gilchiwaneun dareum<br />heotdidiji anneun balgeoreum<br />imi jeongdabeun neo jeonghaejyeo<br />eojjeol su eopjana Wassup!</p><p>Geunyang jikjin No rules, No jichim<br />(Oh god)<br />Nae gamjeonge gireumeul bueo<br />Simjang enjineun deobeullo Go vroom</p><p>I'm on fire<br />Bulbuteun i gamjeong meomchul sun eopseo<br />Gipge ppajyeo<br />Cheoncheonhi ne ane jamgigo sipeo<br />Igeon jungdogiya<br />I just can't get enough<br />Nan neoreul hyanghae divin' jeonbu orin<br />Heeonal su eomneun kkeullim</p><p>You're the one gidaryeowasseo<br />Barabolsurok areumdawo<br />You're the sun garil su eopseo<br />Du nuni meoreodo</p><p>Neoegero jikjin<br />Ooh<br />Jikjin<br />Neoegero jikjin<br />Ooh<br />Jikjin<br />Pedal to the metal hoo</p><p>Can't nobody see us urin haneul wiro<br />Bonneungman ilkkaewo iseongeun jeo dwiro<br />We gon' ride sorichyeo jigu kkeutkkaji deullige<br />Nae son kkwak jaba No turning back</p><p>Neoegero jikjin<br />Ooh<br />Pedal to the metal hoo<br />Ooh<br />neoegero jikjin</p><p>Don't stop amman bogo dallyeo doljin<br />Oh let's go<br />Pedal to the metal hoo<br />Won't stop amman bogo dallyeo jikjin<br />Oh let's go<br />Neoegero jikjin</p>"
+    },
+    {
+      "id": 11,
+      "name_category": "BOY",
+      "title": "left and right",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR11.ogg",
+      "lyrics": "<p>Memories follow me left and right<br />I can feel you over here, I can feel you over here<br />You take up every corner of my mind<br />(What ya gon' do now?)</p><p>Ever since the-the day you-you ran away (No, I don't know how)<br />How to erase your body from out my brain? (What ya gon' do now?)<br />Maybe I should just focus on me instead (You're all I think about)<br />All the nights we were tangled up in your bed</p><p>Oh, no (Oh, no)<br />Oh, no (Oh, no)<br />You're goin' 'round in circles<br />Got you stuck up in my head, yeah</p><p>Memories follow me left and right<br />I can feel you over here, I can feel you over h?re<br />You take up ev?ry corner of my mind<br />Your love stays with me day and night<br />I can feel you over here, I can feel you over here<br />You take up every corner of my mind<br />What ya gon' do now?</p><p>Ever since the-the day that you went away (Someone tell me how)<br />How much more do I gotta drink for the pain? (What ya gon' do now?)<br />You do things to me that I just can't forget (You're all I think about)<br />All the nights we were tangled up in your bed</p><p>Oh, no (Oh, no)<br />Oh, no (Oh, no)<br />You're goin' 'round in circles<br />Got you stuck up in my head, yeah</p><p>Memories follow me left and right<br />I can feel you over here, I can feel you over here<br />You take up every corner of my mind (Of my mind)<br />Your love stays with me day and night<br />I can feel you over here, I can feel you over here<br />You take up every corner of my mind<br />What ya gon' do now?</p><p>Did you know you're the one that got away?<br />And even now, baby, I'm still not okay<br />Did you know that my dreams, they're all the same?<br />Every time I close my eyes</p><p>Memories follow me left and right<br />I can feel you over here, I can feel you over here<br />You take up every corner of my mind (What ya gon' do now?)<br />Your love stays with me day and night<br />I can feel you over here, I can feel you over here<br />You take up every corner of my mind (What ya gon' do now?)</p><p>I can feel you over here, I can feel you over here<br />You take up every corner of my mind (What ya gon' do now?)</p>"
+    },
+    {
+      "id": 12,
+      "name_category": "BOY",
+      "title": "love shot",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR12.ogg",
+      "lyrics": "<p>Chagabdorok seorol gyeonun chae<br />Nari seon deus geu moksorien<br />Summaghineun geosman gadeukhae<br />Oh oh oh oh oh<br />Aye ye</p><p>Nuneul garin chaero geureohge<br />Gudge dadabeorin seoroui<br />Mami aesseo oemyeonhaneun geol</p><p>Ah tadeureoga<br />Gallajil deus sumi makhyeowa<br />Galjeungi na<br />I han janeul gadeukhi dama<br />Neomchil deuthan<br />Witaeron oneul bameul nan</p><p>It's the love shot<br />Na nanana nananana<br />Na nanana nanana<br />Na nanana nananana<br />Oh oh oh oh oh<br />It's the love shot<br />Na nanana nananana<br />Na nanana nanana<br />Na nanana nananana<br />Oh oh oh oh oh<br />It's the love shot</p><p>Biteullyeobeorin love &amp; hate<br />Areumdawossdeon gieokdeul<br />Hayahge muldeuryeojyeo<br />Jogeumssik baraeeoga</p><p>Maeil deo gipeojyeo calm down<br />Sangcheoga doeneun malgwa<br />Geomge tabeorin maeum Where is love?<br />Yeah yeah yeah yeah</p><p>Nungwa gwireul maggo<br />Eokjiro hemaebwado gyeolguk jeongdabeun love<br />Too much egoe jurin baereul bulligo<br />Bieobeorin han janui compassion<br />Ije dasi chaewo deureoboja da</p><p>It's the love shot<br />Na nanana nananana<br />Na nanana nanana<br />Na nanana nananana<br />Oh oh oh oh oh<br />It's the love shot<br />Na nanana nananana<br />Na nanana nanana<br />Na nanana nananana<br />Oh oh oh oh oh<br />It's the love shot<br />People come and people go<br />Sesange meomchwoseon neowa nan<br />Mudyeojin gamjeongdeure<br />Seoseohi igsukhaejyeoga</p><p>Simjangi ta<br />Memareuda gallajil deuthan<br />Mideume nan<br />Neoro jeoksyeo teumeul chaewoga<br />Kkeojil deuthan<br />Nae mame bureul butyeonwa<br />Yeah</p><p>It's the love shot<br />Na nanana nananana<br />Na nanana nanana<br />Na nanana nananana<br />Oh oh oh oh oh<br />It's the love shot<br />Na nanana nananana<br />Na nanana nanana<br />Na nanana nananana<br />Oh oh oh oh oh<br />It's the love shot</p>"
+    },
+    {
+      "id": 13,
+      "name_category": "BOY",
+      "title": "my universe",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR13.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "BOY",
+      "title": "paradox",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR14.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "BOY",
+      "title": "permission to dance",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR15.ogg",
+      "lyrics": "<p>It's the thought of being young<br />When your heart's just like a drum<br />Beating louder with no way to guard it<br />When it all seems like it's wrong<br />Just sing along to Elton John<br />And to that feeling, we're just getting started</p><p>When the nights get colder<br />And the rhythms got you falling behind<br />Just dream about that moment<br />When you look yourself right in the eye, eye, eye<br />Then you say</p><p>I wanna dance<br />The music's got me going<br />Ain't nothing that can stop how we move, yeah<br />Let's break our plans<br />And live just like we're golden<br />And roll in like we're dancing fools</p><p>We don't need to worry<br />'Cause when we fall we know how to land<br />Don't need to talk the talk, just walk the walk tonight<br />'Cause we don't need permission to dance</p><p>There's always something that's standing in the way<br />But if you don't let it faze ya<br />You'll know just how to break<br />Just keep the right vibe yeah<br />'Cause there's no looking back<br />There ain't no one to prove<br />We don't got this on lock yeah</p><p>The wait is over<br />The time is now so let's do it right<br />Yeah we'll keep going<br />And stay up until we see the sunrise<br />And we'll say</p><p>I wanna dance<br />The music's got me going<br />Ain't nothing that can stop how we move yeah<br />Let's break our plans<br />And live just like we're golden<br />And roll in like we're dancing fools</p><p>We don't need to worry<br />'Cause when we fall we know how to land<br />Don't need to talk the talk, just walk the walk tonight<br />'Cause we don't need permission to dance</p><p><br />Da na na na na na na<br />Da na na na na na na<br />Da na na na na na na<br />No, we don't need permission to dance<br />Da na na na na na na<br />Da na na na na na na<br />Da na na na na na na</p><p>Well let me show ya<br />That we can keep the fire alive<br />'Cause it's not over<br />Till it's over say it one more time<br />Say</p><p>I wanna dance<br />The music's got me going<br />Ain't nothing that can stop how we move yeah<br />Let's break our plans<br />And live just like we're golden<br />And roll in like we're dancing fools</p><p>We don't need to worry<br />'Cause when we fall we know how to land<br />Don't need to talk the talk, just walk the walk tonight<br />'Cause we don't need permission to dance</p>"
+    },
+    {
+      "id": 16,
+      "name_category": "BOY",
+      "title": "that that",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR16.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "GIRL",
+      "title": "pink venom",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR17.ogg",
+      "lyrics": "<p>BLACKPINK, BLACKPINK<br />BLACKPINK, BLACKPINK</p><p>[Verse 1: Jennie, Lisa]<br />Kick in the door, waving the coco<br />Papkonina chaenggyeo kkyeodeul saenggak malgo<br />I talk that talk, runways I walk, walk<br />Nun gamgo pop, pop an bwado cheok<br />One by one, then two by two<br />Nae sonkkeut tuk hanae da muneojineun jung<br />Gajja syo chigon hwaryeohaetji<br />Makes no sense, you couldn't get a dollar outta me</p><p>[Pre-Chorus: Ros&eacute;, Jisoo]<br />Ja oneul bamiya nan<br />Dogeul pumeun kkot<br />Ne honeul ppaeaseun daeum<br />Look what you made us do<br />Cheoncheonhi neol jamjaeul fire (Fire)<br />Janinhal mankeum areumdawo<br />I bring the pain like</p><p>[Chorus: Jennie, Lisa]<br />This, that pink v?nom<br />This, that pink venom<br />This, that pink venom<br />Get '?m, get 'em, get 'em<br />Straight to ya dome like woah, woah, woah<br />Straight to ya dome like ah, ah, ah<br />Taste that pink venom<br />Taste that pink venom<br />Taste that pink venom<br />Get 'em, get 'em, get 'em<br />Straight to ya dome like woah, woah, woah<br />Straight to ya dome like ah, ah, ah</p><p>[Verse 2: Lisa, Jennie]<br />Black paint and ammo, got bodies like Rambo<br />Rest in peace, please light up a candle<br />This the life of a vandal, masked up and I'm still in CELINE<br />Designer crimes or it wouldn't be me, ooh<br />Diamonds shining, drive in silence, I don't mind it, I'm riding<br />Flying private side by side with the pilot up in the sky<br />And I'm wilding, styling on them and there's no chance<br />'Cause we got bodies on bodies like this a slow dance</p><p>[Pre-Chorus: Jisoo, Ros&eacute;]<br />Ja oneul bamiya<br />Nan dogeul pumeun kkot<br />Ne honeul ppaeaseun daeum<br />Look what you made us do<br />Cheoncheonhi neol jamjaeul fire (Fire)<br />Janinhal mankeum areumdawo<br />I bring the pain like</p><p>[Chorus: Lisa, Jennie]<br />This, that pink venom<br />This, that pink venom<br />This, that pink venom<br />Get 'em, get 'em, get 'em<br />Straight to ya dome like woah, woah, woah<br />Straight to ya dome like ah, ah, ah<br />Taste that pink venom<br />Taste that pink venom<br />Taste that pink venom<br />Get 'em, get 'em, get 'em<br />Straight to ya dome like woah, woah, woah<br />Straight to ya dome like ah, ah, ah</p><p>[Bridge: Ros&eacute;, Jisoo, Ros&eacute; &amp; Jisoo, Lisa]<br />Wonhandamyeon provoke us<br />Gamdang mothae and you know this<br />Imi peojyeobeorin shot that potion<br />Ne nunapeun pingkeubit ocean<br />Come and give me all the smoke<br />Do animyeon mo like I'm so rock and roll<br />Come and give me all the smoke<br />Da jul sewo bwa ja stop, drop<br />I bring the pain like</p><p>[Outro: Jennie, Lisa, All]<br />Brra-ta-ta-ta, krra-ta-ta-ta<br />Brra-ta-ta-ta, krra-ta-ta-ta<br />Brra-ta-ta-ta, krra-ta-ta-ta<br />Straight to ya, straight to ya, straight to ya dome like<br />Brra-ta-ta-ta, krra-ta-ta-ta (BLACKPINK)<br />Brra-ta-ta-ta, krra-ta-ta-ta (BLACKPINK)<br />Brra-ta-ta-ta, krra-ta-ta-ta (BLACKPINK)<br />I bring the pain like</p>"
+    },
+    {
+      "id": 18,
+      "name_category": "GIRL",
+      "title": "ready for love",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR18.ogg",
+      "lyrics": "<p>Oneul harudo nae merossogeun ojik you<br />Can&rsquo;t get you out of my head<br />Bamsae miwonaen byeonoe saenggin blue<br />Yeah, neon dodache myeot beoneul nae bam gajyeoda beoringeonji molla</p><p>Saenggagui gichaneun swijianhgo dallyeoga bamsae mot ja<br />Yeah, neon aswiul ttaeman<br />Yeah, geujeo aswiul ttaeman nal<br />Yeah, geurae aswuil ttaerodo neoramyeon joheunikka</p><p>Ijen gidaril geosdo eopsjanha<br />Geopnael piryodo eopsjanha<br />Nae simjangui saekkareul boyeojwo<br />Jeongmal nae sesangeun nega piryohae</p><p>Du nuneul tto bam ne yeope, here I am<br />I&rsquo;m ready for love<br />Tell me when you ready, &lsquo;cause I&rsquo;m already, ready (ready, ready)</p><p>Tell me when you ready, &lsquo;cause<br />I&rsquo;m ready for love<br />(Eh-eh-eh-eh-eh-eh-eh-eh-eh)</p><p>I&rsquo;m ready for love<br />I&rsquo;m ready for love<br />(Eh-eh-eh-eh-eh-eh-eh-eh-eh)</p><p>I&rsquo;m ready for love<br />I&rsquo;m ready for love</p>"
+    },
+    {
+      "id": 19,
+      "name_category": "GIRL",
+      "title": "lalisa",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR19.ogg",
+      "lyrics": "<p>Nae dwinmoseumman bwado aljanha<br />Eoduwojil ttae bunhongbichina<br />Saehayan jomyeongi nal kkaeumyeon<br />Beonjjeokbeonjjeok sesangeul heundeureo</p><p>Lalalala Lalala Lalala Lalala<br />What&rsquo;s my name? What&rsquo;s my name?<br />Lalalala Lalala Lalala Lalala<br />What&rsquo;s my name? What&rsquo;s my name?<br />Meorireul hayake biunchae<br />Sikkeureon gamjeongeun taeullae<br />Burn burn burn<br />Geuttae nan ne galjeungeul haesohal syampein</p><p>Sip sip nareul deurikyeo<br />Geurae deo jeo nopi nae body batdeureo<br />Want you to ring the alarm<br />Sesangege allyeo nae ireumeda immatchwo</p><p>Say Lalisa love me Lalisa love me<br />Call me Lalisa love me Lalisa love me<br />Aljanha attitude<br />Mwol deo eojjeoragu<br />The loudest in the room</p><p>Just Say Lalisa love me Lalisa love me<br />Call me Lalisa love me Lalisa love me<br />Aljanha attitude<br />Mwol deo eojjeoragu<br />The loudest in the room<br />Baby get the megaphone<br />Put it on speaker<br />I said I can&rsquo;t hear you<br />So you need to speak up<br />Put that shiz on stereo<br />Everyone else on very low<br />Protect it like a barrier<br />Promise there&rsquo;s nothing scarier<br />Than me if anybody coming gunnin for my man<br />Gonna catch a case<br />Gun up in my hand<br />Bam bam bam<br />Hit after hit though<br />Rocks in my wrist so I call em the flintstones</p><p>Ring the alarm<br />Sesangege allyeo nae ireumeda immatchwo</p><p>Say Lalisa love me Lalisa love me<br />Call me Lalisa love me Lalisa love me<br />Aljanha attitude<br />Mwol deo eojjeoragu<br />The loudest in the room</p><p>Just Say Lalisa love me Lalisa love me<br />Call me Lalisa love me Lalisa love me<br />Aljanha attitude<br />Mwol deo eojjeoragu<br />The loudest in the room<br />Nuguwado bigyo moshae geuraebwatja you gon&rsquo; still love me<br />You need some L.A.L.I.S.A</p><p>Jigeum neoeui du nun ape seoitneun nae ireumeul gieokhae<br />Love you some L.A.L.I.S.A</p><p>You cannot see me eotteoke haneunji da boyeojwodo<br />Taegugeseo hanguk geochyeo yeogikkaji went for the throat</p><p>Being the greatest of all time ain&rsquo;t fantasy<br />Saekkaman pingkeubit wanggwan belongs to we</p><p>Lalisa Lalisa Lalisa haneul wi dangdanghae<br />Lalisa Lalisa Lalisa jeodeureun nal wonhae<br />Lalisa Lalisa Lalisa catch me if you can<br />Lalisa Lalisa Lalisa Lalisa Lalisa</p><p>Say Lalisa love me Lalisa love me<br />Call me Lalisa love me Lalisa love me<br />Aljanha attitude<br />Mwol deo eojjeoragu<br />The loudest in the room</p><p>Just Say Lalisa love me Lalisa love me<br />Call me Lalisa love me Lalisa love me<br />Aljanha attitude<br />Mwol deo eojjeoragu<br />The loudest in the room</p>"
+    },
+    {
+      "id": 20,
+      "name_category": "GIRL",
+      "title": "after like",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR20.ogg",
+      "lyrics": "<p>Tto moreuji nae maeumi<br />Jeo nalsshicheoreom bakkwilji<br />Nal najocha da al su eopseuni</p><p>Geuge mweoga jungyohani<br />Jigeum nege wanjeonhi<br />Puk ppajyeottan ge jungyohan geoji</p><p>Ama kkumman gatgetjiman bunmyeong kkumi aniya<br />Dalli seolmyeonghal su eomneun igeon sarangil geoya<br />Banggeum naega malhan gamjeong gamhi uishimhaji ma<br />Geunyang jotaneun ge anya What's after 'LIKE'?</p><p>You and I<br />It's more than 'LIKE'<br />L daeum tto O daeum nan yeah<br />You and I<br />It's more than 'LIKE'<br />What's after 'LIKE'?<br />What's after 'LIKE'?</p><p>Joshimhae du shimjange pin<br />Saeparan i bulkkochi<br />Jeo taeyangboda tteugeoul teni</p><p>Nan jeo wiro tto araero<br />Nae geuraepeuneun pogi keo<br />Yeah that's me</p><p>Du beon se beon pigonhage jakku jilmunhaji ma<br />Nae jangjeomi mweonji ara? baro soljikhan geoya<br />Banggeum naega malhan gamjeong gamhi uishimhaji ma<br />Geunyang jotaneun ge anya What's after 'LIKE'?</p><p>You and I<br />It's more than 'LIKE'<br />L daeum tto O daeum nan yeah<br />You and I<br />It's more than 'LIKE'<br />What's after 'LIKE'?<br />What's after 'LIKE'?</p><p>What after like nae mame strike<br />Jigeum neukkin jjarishameun machi tike<br />LO daeume I geu daeume VE<br />Yeogin neowa nae space amudo makji mothae<br />Nareul bomyeon nun kkamppakhal<br />Shigan jochado akkaul geol<br />Deudieo manna bangaweo<br />LOVE sai nohil I<br />(What's after 'LIKE'?)</p><p>You and I<br />It's more than 'LIKE'<br />E ap tto V ap nan yeah<br />You and I<br />It's more than 'LIKE'<br />What's after 'LIKE'?</p><p>You and I<br />It's more than 'LIKE'<br />L daeum tto O daeum nan yeah<br />You and I<br />It's more than 'LIKE'<br />What's after 'LIKE'?<br />What's after 'LIKE'?</p>"
+    },
+    {
+      "id": 21,
+      "name_category": "GIRL",
+      "title": "bell",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR21.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "GIRL",
+      "title": "black mamba",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR22.ogg",
+      "lyrics": "<p><br />Hey!<br />Hey!</p><p><br />I'm addicted<br />kkeunh-im-eobs-i<br />mal-eul geol-eojuneun<br />naui eseupa<br />ileon gyogam<br />neoui jonjaen nal<br />daleun chawon-eulo<br />ikkeul-eossji</p><p><br />nan sesang jungsim-e<br />You're in the flat<br />nae modeun Action<br />eolin neoui him-eul kiwo</p><p><br />neon eonjengabuteo Synk out<br />noijeugat-i boyeo<br />deo isang mos chajgess-eo<br />neol yuhoghae samkin geon</p><p><br />Ma Ma Ma Mamba<br />Woo oh-oh<br />Ma Ma Ma Mamba<br />Oh eh-o eh-o</p><p><br />neon gwang-yaleul tteodolgo iss-eo (Aya ya ya ya ya ya)<br />naui bunsin-eul chajgo sip-eo (Aya ya ya ya ya ya)<br />Hey Ma Mamba<br />I hate Ma Ma Ma Mamba<br />Hate Ma Ma Ma Mamba</p><p><br />I'm ejected<br />seonham man-eulon<br />neoui geodaeham-eul igiji moshae<br />I'm exhausted<br />neoui jonjaen modeun<br />tam-yogdeul-eul meoggo jala nassji</p><p><br />eseupaneun naya<br />dul-i doel su eobs-eo<br />Monochrome to colors<br />igeon Evo-evolution</p><p><br />Oh! wiheomhan jangnan-eul chyeo<br />maehogjeog-ijiman neol<br />bujeonghal bakk-e<br />modeun geol samkyeobeolil<br />Black Mamba</p><p><br />Ma Ma Ma Mamba<br />Woo oh-oh<br />Ma Ma Ma Mamba<br />Oh eh-o eh-o</p><p><br />neon gwang-yaleul tteodolgo iss-eo (Aya ya ya ya ya ya)<br />nege majseo nan jil su eobs-eo (Aya ya ya ya ya ya)<br />Hey Ma-Mamba</p><p>geoul sog-ui naneun nega anilkka?<br />ilgeuleojyeobeolin hwan-yeong-in geolkka?<br />dasi neowa yeongyeoldoel su issdamyeon<br />neoleul mannago sip-eo ije<br />modeun geol samkyeobeolil<br />Black Mamba</p><p><br />Ma Ma Ma Mamba<br />Woo oh-oh<br />Ma Ma Ma Mamba<br />Oh eh-o eh-o</p><p><br />neon gwang-yaleul tteodolgo iss-eo (Aya ya ya ya ya ya)<br />nege majseo nan jil su eobs-eo (Aya ya ya ya ya ya)<br />Hey Ma Mamba</p>"
+    },
+    {
+      "id": 23,
+      "name_category": "GIRL",
+      "title": "doomchita",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR23.ogg",
+      "lyrics": "<p>geunyang nan hana neoga joeunde<br />Diamond ring, gold chain modu ppeonhae<br />chagaun nal baraetdamyeon I&rsquo;m just sorry<br />da ttokgateun sori nan jaemieopseo</p><p>binnaneun syangdeullie<br />sumaneun nunbitdeure<br />nae eolgul darajugesseo<br />Boom Boom deo maeryeok itge<br />neon imi kkomjjageopsi nal baraman bwayo<br />I&rsquo;m not playing binnagetji ni mamkkeot blow up</p><div class="google-auto-placed ap_container"><p>i sungan nollagetji ama tto nan Eh<br />gyesokdoen nochil su eomneun seopeuraijeu all right yeah<br />mageuryeo haedo mageul sun eopseo<br />nan idaero get away</p><p>dum chit du dum chita<br />Eh du dum chit du dum chita<br />Never mind geureon geojit stophae<br />Move it like dum chit du dum chita</p><p>nal bomyeon dadeul bureopdago hajyo<br />gibuneun pyeonghwa<br />dum chit du dum chita<br />ttabunhae na jigyeopgiman hae<br />Get away<br />dum chit du dum chita</p><p>gyesok binnaji 24/7<br />ojik nan wonhae deo (deo)<br />nal baraboneun nundeul<br />nomdeurui gwansim soge nan star (star)<br />You&rsquo;re still happy better nae dwibalji neon<br />hangsang bingbing (Oh god)<br />bereun ringning (All night)</p><p>i sungan nollagetji ama tto nan Eh<br />gyesokdoen nochil su eomneun seopeuraijeu all right yeah<br />idaero jeoldae meomchul sun eopseo<br />jeo kkeutkkaji get away</p><p>dum chit du dum chita<br />Eh du dum chit du dum chita<br />Never mind geureon geojit stophae<br />Move it like dum chit du dum chita</p><p>Diamond rings up<br />binnaneun rap list<br />neoreul seutaenbai<br />dum chit du dum chita<br />Diamond rings up<br />simjangeun rap beats<br />nareul seutaenbai<br />dum chit du dum chita</p><p>Ready burn deo tteugeowojin yeolgi nareul samkyeo<br />Let it go deo saerowojin nal chajeul su isseo<br />hana dul set Fire</p><p>Eh dum chit du dum chita<br />du dum chit du dum chita</p><p>nal bomyeon dadeul bureopdago hajyo<br />gibuneun pyeonghwa<br />dum chit du dum chita<br />ttabunhae na jigyeopgiman hae<br />Get away<br />dum chit du dum chita<br />dum chit du dum chita</p></div>"
+    },
+    {
+      "id": 24,
+      "name_category": "GIRL",
+      "title": "feel my rhytme",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR24.ogg",
+      "lyrics": "<p>Oh ah ah ah yeah<br />Oh whoa oh whoa oh whoa<br />Red Velvet</p><p>mudohwereul dwijibeo (dwijibeo)<br />jageun soraneul tto ireukyeo<br />This is gonna be a crazy night<br />(To-na-na-na-na-na-night)</p><p>deungjangbuteo insakkaji pagyeokjeogige<br />uri saljjak norabolkka soljjikage Bae bae<br />jigeumbuteo shijakae bolkke (shijakae bolkke)<br />(Feel my vibe and sway)</p><p>kkotgarureul nallyeo<br />pokjugeul deo keuge teoteuryeo<br />uril omangwa pyeongyeone gaduji ma<br />jayuroweo jigeum</p><p>Feel my rhythm, come with me<br />sangsanghae bwa mweodeunji<br />noraereul ttaraseo jeo dalppiche chumeul chweo<br />baro jigeum (Play my rhythm)</p><p>Follow follow my heartbeat<br />haega tteool ttaekkaji<br />Feel my rhythm meomchuji mara jweo<br />i sunganeul nochi ma Baby</p><p>chaneun Old and Classic (Just ride)<br />ije jogeum nasseon dareun chaweonkkaji (Get loud)<br />sangsanghal su eopteon got shigan sok<br />yego eopshi deungjanghae<br />i bameun meotjigo urin Fun and wild and brave</p><p>shiseoneul kkeuneun ni Motion<br />G-give me a new direction<br />kkeudeomneun Black hole-cheoreom<br />ppajeodeuneun Sweet emotion<br />neoreul taeun chae (Sway)<br />eodirodeun tteonallae (Way)<br />on sesang modeun gyeonggyereul<br />da hwijeoeullae (Oh yeah)</p><p>kkotgarureul nallyeo (heunnallyeo)<br />Champagne-eul deo keuge teoteuryeo (maeumkkeot)<br />deoneun eojewa naeire gaduji ma<br />jayuroweo jigeum</p><p>Feel my rhythm, come with me<br />sangsanghae bwa mweodeunji<br />noraereul ttaraseo jeo dalppiche chumeul chweo<br />baro jigeum (Play my rhythm)</p><p>Follow follow my heartbeat<br />haega tteool ttaekkaji<br />Feel my rhythm meomchuji mara jweo<br />i sunganeul nochi ma Baby</p><p>Ah ah ah ah (Ah ah ah ah)<br />on sesangi meomchuneun sungan<br />What a what a feeling<br />eoseo nae soneul jaba (All right)<br />bon jeok eopteon Film<br />ppajeodeuneun You and I<br />Next time shigyereul dollyeo eodiro gabolkka<br />Come on ttodashi shijakae You and I<br />Whoa whoa whoa whoa woo</p><p>Feel my rhythm, come with me (Oh yeah yeah yeah)<br />sangsanghae bwa mweodeunji (Ah)<br />noraereul ttaraseo jeo dalppiche chumeul chweo<br />baro jigeum (Play my rhythm)</p><p>Follow follow my heartbeat<br />haega tteool ttaekkaji (haega tteool ttaekkaji)<br />Feel my rhythm kkeunnaji anneun kkum<br />i sunganeul nochi ma Baby</p>"
+    },
+    {
+      "id": 25,
+      "name_category": "GIRL",
+      "title": "girl",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR25.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "GIRL",
+      "title": "love my be",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR26.ogg",
+      "lyrics": "<p>neowa hamkke hago sip-eun ildeul-eul sangsanghaneun ge<br />yojeum nae ilsang-i doego<br />neoui jeulgeowohaneun moseub-eul bogo iss-eumyeon<br />jayeonseule ttala usgo issneun geol</p><p>neoui haengdong-e seolleeohago dwicheog-idaga<br />jisaeun bam-i manh-ajineunde</p><p>igeon nuga bwado salang-il tende<br />jong-il hamkkemyeon jillil tende<br />na dol-aseodo ontong neoin geon<br />amulaedo salang-inga bwa</p><p>jeomjeom neowa hago sip-eun ildeul saeng-gaghamyeonseo<br />halul bonaen nal-i manh-ajineunde</p><p>igeon nuga bwado salang-il tende<br />jong-il hamkkemyeon jillil tende<br />na dol-aseodo ontong neoin geon<br />amulaedo salang-inga bwa</p><p>neoui haengboghaehaneun moseub-eul bogo iss-eumyeon<br />nado moleuge ttala usneunde</p><p>i jeongdomyeon al-ajul manhajanh-a<br />neodo yong-gi naelman hajanh-a<br />naman ileon ge anilamyeon<br />uli mannabol manhajanh-a<br />amulaedo salang-inga bwaneowa hamkke hago sip-eun ildeul-eul sangsanghaneun ge<br />yojeum nae ilsang-i doego<br />neoui jeulgeowohaneun moseub-eul bogo iss-eumyeon<br />jayeonseule ttala usgo issneun geol</p><p>neoui haengdong-e seolleeohago dwicheog-idaga<br />jisaeun bam-i manh-ajineunde</p><p>igeon nuga bwado salang-il tende<br />jong-il hamkkemyeon jillil tende<br />na dol-aseodo ontong neoin geon<br />amulaedo salang-inga bwa</p><p>jeomjeom neowa hago sip-eun ildeul saeng-gaghamyeonseo<br />halul bonaen nal-i manh-ajineunde</p><p>igeon nuga bwado salang-il tende<br />jong-il hamkkemyeon jillil tende<br />na dol-aseodo ontong neoin geon<br />amulaedo salang-inga bwa</p><p>neoui haengboghaehaneun moseub-eul bogo iss-eumyeon<br />nado moleuge ttala usneunde</p><p>i jeongdomyeon al-ajul manhajanh-a<br />neodo yong-gi naelman hajanh-a<br />naman ileon ge anilamyeon<br />uli mannabol manhajanh-a<br />amulaedo salang-inga bwa</p>"
+    },
+    {
+      "id": 27,
+      "name_category": "GIRL",
+      "title": "mafia in the morning",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR27.ogg",
+      "lyrics": "<p><br />Shh...<br />Guess who loves you naya na<br />Do I show you? Noya no<br />Ajik timei anya nan<br />Jom deo gakkai jom deo gakkai geureoda gapjagi ssak</p><p><br />I'mma steal it maeumeul humchyeo<br />You are gonna love me<br />Gyeoljeongjeogil ttae ippareul deureonaeneun type<br />Nawa du nuni majuchyeodo<br />Nan heundeullimi eopseo No<br />Neol saranghaneun ge joeramyeon beomineun Who?<br />You'll never know</p><p><br />Baby hetgallyeo hetgallyeo hetgalligetji neon<br />Gyeolgugen nae geoya nae geoya nae ge doegetji neon<br />Ije finally finally taekal siganiya<br />Beolsseo eoneusae tto bami doeeotseumnida</p><p><br />I'm the mafia<br />Ma-ma-ma-ma-mafia, yah, yah<br />We do it like a mafia<br />Ring-ding-ding-ding, ding-ding<br />I'm the mafia<br />Ma-ma-ma-ma-mafia, yah, yah<br />We do it like a mafia<br />Tto achimi balgatseumnida</p><p><br />Eojetbamedo you don't even know<br />Nuguilkka mafia<br />Nari balgado you don't even know<br />Nuguilkka mafia</p><p><br />Baeuboda deo baeu<br />Neukdae gajigo noneun yeou<br />Jeonhyeo an boigetji clue<br />Hajiman naegen da gyehoegi itdago go<br />Geuman meomunmeomutdae seulseul jakjeon gaesi<br />Neoreul ppaeseo ppaeseo ppaeseo like a caper movie (Ready?)<br />Al su eomneun poker face<br />Jeomnyeonghae ne mam sok place<br />Hurry up! Baby, catch me if you can haha!</p><p><br />Baby hetgallyeo hetgallyeo hetgalligetji neon<br />Gyeolgugen nae geoya nae geoya nae ge doegetji neon<br />Ije finally finally taekal siganiya<br />Beolsseo eoneusae tto bami doeeotseumnida</p><p><br />I'm the mafia<br />Ma-ma-ma-ma-mafia, yah, yah<br />We do it like a mafia<br />Ring-ding-ding-ding, ding-ding<br />I'm the mafia<br />Ma-ma-ma-ma-mafia, yah, yah<br />We do it like a mafia<br />Nuguilkka mafia</p><p>&nbsp;</p><p><br />Majimak bami gipeosseo, baby<br />I bami jinamyeon ne gyeoten na hana, yeah, yeah<br />(ma) machimnae<br />(pi) pihal su eomneun<br />(a) achimi wa<br />Ha-ha-ha</p><p><br />I'm the mafia<br />Ma-ma-ma-ma-mafia, yah, yah<br />We do it like a mafia<br />Ring-ding-ding-ding, ding-ding<br />I'm the mafia<br />Ma-ma-ma-ma-mafia, yah, yah<br />We do it like a mafia<br />Tto achimi balgatseumnida</p><p><br />Eojetbamedo you don't even know<br />Nuguilkka mafia<br />Nari balgado you don't even know<br />Nuguilkka mafia</p>"
+    },
+    {
+      "id": 28,
+      "name_category": "GIRL",
+      "title": "money",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR28.ogg",
+      "lyrics": "<p>Its the end of the month And the weekend<br />Imma spend this check Everything on me yeah<br />Imma tip myself Imma spend it on myself<br />Imma drop it like it&rsquo;s pouring<br />Imma pour it on myself Check Check Check</p><p>Check that money making bank account number<br />That&rsquo;s that shiz that&rsquo;s never getting bounced on ya<br />Bish I do the money dance<br />I just made a hundred bands<br />When the store says sign for it<br />Imma leave my autograph</p><p>Dolla bills Dolla bills<br />Watch it fallin for me I love the way that feels<br />Dolla bills Dolla bills<br />Keep on fallin for me I love the way it feels</p><p>I came here to Drop some money<br />Dropping all my money Drop some<br />money All this bread so yummy yeah<br />Twerking twerking When I buy the things I like<br />Dolla dollas Dropping on my ass tonight<br />Everyone silent Listen to my money talk<br />Spend how I like it Yeah everyone know what<br />I mean mean When they see green<br />When they see green that mean go</p><p><br />Give me what the hell I want<br />Give me what the hell I want<br />Check that money making bank account number<br />That&rsquo;s that shiz that&rsquo;s never getting bounced on ya<br />Bish I do the money dance<br />I just made a hundred bands<br />When the store says sign for it<br />Imma leave my autograph</p><p><br />Dolla bills Dolla bills<br />Watch it fallin for me I love the way that feels<br />Dolla bills Dolla bills</p><p>Keep on fallin for me I love the way it feels<br />I came here to Drop some money<br />Dropping all my money Drop some money<br />All this bread so yummy yeah<br />Twerking twerking When I buy the things I like<br />Dolla dollas Dropping on my ass tonight</p><p><br />Drop some money Dropping all my money<br />Drop some money All this bread so yummy yeah</p><p>Drop some money Dropping all my money<br />Drop some money All this bread so yummy yeah</p><p>My money moves<br />Money I choose<br />Celine my shoes<br />Walkin on you<br />My money rules</p><p><br />My money moves<br />Money I choose<br />Watch how my wons and yens and dollars be<br />Droppin on you</p>"
+    },
+    {
+      "id": 29,
+      "name_category": "GIRL",
+      "title": "only",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR29.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "GIRL",
+      "title": "pop",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR30.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "GIRL",
+      "title": "savage",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR31.ogg",
+      "lyrics": "<p>Oh my gosh!<br />Don&rsquo;t you know I&rsquo;m a Savage?<br />I&rsquo;m a Killa neoreul kkael ae<br />ajikdo garigo hwangageul pyeolchin neo<br />paella We Holler<br />duryeopji ana neo neo Hit you harder<br />nal mireo neoeo Deep fake on me<br />junbiga andoen mudaero<br />moraneoeo Fake on me<br />Got everybody mock up to me<br />suchireul neukkige mentareul heundeureonwa<br />ssaneulhan gwanjung muneojyeo ae<br />deoneun neol mot chama Say No!<br />dugo bwa nan jom Savage<br />neoui Dirty han Play<br />deoneun dugo bol su eopseo<br />nareul muneotteurigo sipeun<br />ne hwangakdeuri jeomjeom<br />neoreul guchukal iyuga dwae<br />I&rsquo;m a Savage<br />neol busyeo kkae julge Oh<br />I&rsquo;m a Savage<br />neol jitbalba julge Oh<br />Get me get me now<br />Get me get me now<br />(Zu Zu Zu Zu)<br />jigeum nareul jaba<br />anim nan deo Savage<br />(Zu Zu Zu Zu)<br />Get me get me now<br />Get me get me now<br />(Zu Zu Zu Zu)<br />ijen naega neoreul jaba<br />Now I&rsquo;m a Savage<br />Gimme gimme now<br />Gimme gimme now<br />(Zu Zu Zu Zu)<br />neoui mari boyeo<br />ne yakjeom Algorithm<br />(Zu Zu Zu Zu)<br />gimi gimi na<br />gimi gimi na<br />(Zu Zu Zu Zu)<br />MA ae SYNK banghae malgo<br />kkeojyeo Savage<br />(Zu Zu Zu Zu)<br />Mmmh Everybody looks at me<br />iksukajanni<br />yangbohae chamayaman dwae<br />eoreunseureopge<br />I&rsquo;m locked up in the glass<br />nan nolgo sipeunde<br />neomu kkeumjjikan gidae<br />geureon hwangak teure nareul gadwo nwa<br />I&rsquo;m going gwangyaro Game in<br />mullichyeo gyomyohan iganjil<br />And my aerobuteo<br />meoreojige mandeul<br />hoesimchan ne Trick<br />We gone gwangyaro Game in<br />beeobeoryeo nae bichui geom<br />demijireul ibeun nege<br />injeongsajeong bol geot eomneun peonchi<br />geugeot bwa nan jom Savage<br />neoui jaesaengnyeogeul maga<br />heuteureonwa ppaenwa<br />itji mara yeogin baro gwangya<br />neoui sigongganeun nae tteutdaero<br />Make It break it<br />I&rsquo;m a Savage<br />neol busyeo kkae julge Oh<br />I&rsquo;m a Savage<br />neol jitbalba julge Oh<br />Get me get me now<br />Get me get me now<br />(Zu Zu Zu Zu)<br />jigeum nareul jaba<br />anim nan deo Savage<br />(Zu Zu Zu Zu)<br />Get me get me now<br />Get me get me now<br />(Zu Zu Zu Zu)<br />ijen naega neoreul jaba<br />Now I&rsquo;m a Savage<br />Gimme gimme now<br />Gimme gimme now<br />(Zu Zu Zu Zu)<br />neoui mari boyeo<br />ne yakjeom Algorithm<br />(Zu Zu Zu Zu)<br />gimi gimi na<br />gimi gimi na<br />(Zu Zu Zu Zu)<br />MA ae SYNK banghae malgo<br />kkeojyeo Savage<br />(Zu Zu Zu Zu)<br />wigie ppajin nal jikyeojun geon neoyeosseo<br />My naevis we love U<br />My victory hanaui SYNK DIVE<br />modu nega mandeureojun gihoeran geo<br />I know your sacrifices Oh<br />My naevis we love U<br />ara urin bandeusi<br />ne gieokdeureul chajajulge<br />urin manna kkok buhwal geudaeum<br />Savage<br />Savage<br />Yeah~<br />Get me get me now<br />Get me get me now<br />(Zu Zu Zu Zu)<br />jigeum nareul jaba<br />anim nan deo Savage<br />(Zu Zu Zu Zu)<br />Get me get me now<br />Get me get me now<br />(Zu Zu Zu Zu)<br />ijen naega neoreul jaba<br />Now I&rsquo;m a Savage<br />Gimme gimme now<br />Gimme gimme now<br />(Zu Zu Zu Zu)<br />neoui mari boyeo<br />ne yakjeom Algorithm<br />(Zu Zu Zu Zu)<br />gimi gimi na<br />gimi gimi na<br />(Zu Zu Zu Zu)<br />MA ae SYNK banghae malgo<br />kkeojyeo Savage<br />(Zu Zu Zu Zu)<br />Ha ha, What</p>"
+    },
+    {
+      "id": 32,
+      "name_category": "GIRL",
+      "title": "sneaker",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR32.ogg",
+      "lyrics": "<p>Yeah, yeah</p><p>Let's go, like what</p><p>Jayuroun gibun, I like that</p><p>Gomin ttawin already done, done (Done, done)</p><p>Saegangyeong kkigo boneun ge joeji</p><p>That's not my fault, woah</p><p>Told ya I don't care at all</p><p>Nae meotdaero gal geoya (Oh)</p><p>Pillyo eopseo, order</p><p>Don't need no guidance, I'm makin' my way</p><p>I'm on my way up (Top, top)</p><p>Run to the top (Ah, ooh)</p><p>Nan eonjedeun straight up (Alright)</p><p>Wollae duryeoun ge eopseo nan</p><p>Sanggwaneopseo, call me trouble</p><p>Or you can call me weirdo, naro salgo sipeo</p><p>Teok kkeuteul chikyeoollin chaero</p><p>Da gajil deuthan attitude, geugeomyeon dwae (I)</p><p>Put my sneakers on</p><p>Hana, dul, ready, get set, go</p><p>Put my sneakers on</p><p>Put 'em up, put 'em up (Yeah, yeah)</p><p>Put my sneakers on</p><p>Hana, dul, ready, get set, go</p><p>Meolli gabojago, yeah, yeah</p><p>Put 'em up, put 'em up (Yeah, yeah)</p><p>Gidarideon sungan, stand up, stand up</p><p>Ppalli ttwineun simjang, don't stop, don't stop</p><p>Get loose, bultaewo, jigeum my youth</p><p>Jigeum my youth, yeah</p><p>The party ain't started</p><p>Sijakdo an haesseo nan (Oh)</p><p>Yojeum kkochin mari hana itji</p><p>My best is yet to come</p><p>Sanggwaneopseo, call me trouble</p><p>Or you can call me weirdo, naro salgo sipeo (Oh)</p><p>Teok kkeuteul chikyeoollin chaero</p><p>Da gajil deuthan attitude, geugeomyeon dwae (I)</p><p>Put my sneakers on</p><p>Hana, dul, ready, get set, go</p><p>Put my sneakers on (That's right)</p><p>Put 'em up, put 'em up (Yeah, yeah)</p><p>Put my sneakers on</p><p>Hana, dul, ready, get set, go (Get set, go)</p><p>Meolli gabojago, yeah, yeah</p><p>Put 'em up, put 'em up (Yeah, yeah)</p><p>Jayuropge ttwigo sipeo dareun saram</p><p>Siseondeul, don't care now (Hey, hey)</p><p>Eodikkaji gage doelji moreujiman</p><p>Ildaneun start right now</p><p>Yeah, alright (Alright)</p><p>Meomchuji ma to the top (Yeah)</p><p>Don't worry 'bout it</p><p>'Cause you know I put my sneakers on</p><p>Sanggwaneopseo, call me trouble</p><p>Or you can call me weirdo, naro salgo sipeo (I live my life)</p><p>Teok kkeuteul chikyeoollin chaero (Ooh-ooh)</p><p>Da gajil deuthan attitude, geugeomyeon dwae</p><p>You better put your sneakers on</p><p>Put my sneakers on</p><p>Hana, dul, ready, get set, go</p><p>Put my sneakers on</p><p>Put 'em up, put 'em up (Yeah, yeah)</p><p>Put my sneakers on (Put 'em on now)</p><p>Hana, dul, ready, get set, go (Oh, yeah)</p><p>Meolli gabojago, yeah, yeah</p><p>Put 'em up, put 'em up (Yeah, yeah)</p><p>Jayuropge ttwigo sipeo dareun saram</p><p>Siseondeul, don't care now (Hey, hey)</p><p>Eodikkaji gage doelji moreujiman</p><p>Ildaneun start right now</p><p>Yeah, alright (Alright)</p><p>Meomchuji ma to the top (Yeah)</p><p>Gachi georeo gabojago (Oh)</p><p>(Put 'em up, put 'em up) Yeah, yeah</p>"
+    },
+    {
+      "id": 33,
+      "name_category": "GIRL",
+      "title": "talk that talk",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR33.ogg",
+      "lyrics": "<p>Nal boneun eyes, ssik unneun lips<br />Mame deulji, I like it (Oh, yeah)<br />Ne A to Z kkwae dalkomhae (That's right)<br />But I wanna skip (Just skip)<br />Deo gyeoljeongjeogin thing (That thing)<br />Bonnoneul wonhae bingbing dollin<br />Seoron?ttawi?malgo?(I mean, I?word)</p><p>Deo deo deo?deo deo deo boyeojwo (Boyeojwo)<br />Neo neo neo neo neo neol allyeojwo (Allyeojwo)<br />Jigeum nan need some hints<br />Chaeugo isseo neoran crosswords (Crosswords)<br />Beep, beep, beep, beep, beep, the time is up<br />Nan imi al g?ot gatjiman<br />Ne moksoriro baro deutgo sipeund?</p><p><br />Baby, nae dabeun ppeonhajana, yes or yes?<br />Milgeona danggineun gwaenhan sigan nangbineun sileuni?<br />Gwagamhage say it now, wonhae, one to ten<br />Sijakaebolkka right now</p><p>Tell me what you want<br />Tell me what you need<br />A to Z, da malhaebwa<br />But sijageun ireoke hae<br />Talk that talk, ttak han madi<br />Talk that talk, L-O-V-E<br />Deullyeojwo, ooh<br />Now, now, now, now, now, yeah<br />(Yeah, turn it up)</p><p>&nbsp;</p><p>Neoui nun look, look look<br />Wiaraero roll, roll, roll<br />Ilgeotjana mwo picha<br />Nunbit sai ogo ganeun mal (Ganeun mal)<br />Chageunchageun, one, two, three<br />(Just one, two, three)<br />Deo chinjeolhage A-B-C (Like A-B-C)<br />Don't stop and just replay, replay<br />(Yeah, that's my only request)</p><p><br />Baby, nal ango dalkomhage tell me now<br />(Just tell me now)<br />Ttaeroneun ppeonhan mari deo jotaneun geol aljanni?<br />Favorite part, jigeumiya, now we're almost there<br />(Want it more)<br />Sijakaebolkka right now</p><p><br />Tell me what you want<br />Tell me what you need<br />A to Z, da malhaebwa<br />But sijageun ireoke hae<br />Talk that talk, ttak han madi<br />Talk that talk, L-O-V-E<br />Deullyeojwo, ooh<br />Now, now, now, now, now, yeah</p><p><br />Dansunhan words, saranghandaneun mal<br />Geuge daya nan kkumimeopsi deutgil wonhaji<br />Miruji ana neoege dagaga<br />Nan simplehage da malhalge, I love you</p><p><br />Tell me what you want (Tell me what, ooh)<br />Tell me what you need<br />A to Z, da jochiman<br />Nan i mari jeil joeunde<br />Talk that talk, ttak han madi (Yeah)<br />Talk that talk, L-O-V-E (Oh, oh, yeah)<br />Oh, yeah, it sounds so good (Good, good, yeah)<br />Deo ppajyeodeureo puk</p><p><br />Tell me what you want<br />Tell me what you need<br />Han beon deo haejwo<br />Geurae banggeum geu mal<br />Talk that talk, ttak han madi<br />(Talk that talk)<br />Talk that talk, L-O-V-E<br />Deullyeojwo, ooh<br />Now, now, now, now, now, yeah<br />(Yeah, turn it up)</p>"
+    },
+	{
+      "id": 34,
+      "name_category": "BOY",
+      "title": "fake love",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR34.ogg",
+      "lyrics": ""
+    },
+	{
+      "id": 35,
+      "name_category": "BOY",
+      "title": "fire",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR35.ogg",
+      "lyrics": ""
+    },
+	{
+      "id": 36,
+      "name_category": "BOY",
+      "title": "mic drop",
+      "image": "file:///android_asset/image/BY.png",
+      "link_mp3": "mp3/GBPOR36.ogg",
+      "lyrics": ""
+    },
+	{
+      "id": 37,
+      "name_category": "GIRL",
+      "title": "how you like that",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR37.ogg",
+      "lyrics": ""
+    },
+	{
+      "id": 38,
+      "name_category": "GIRL",
+      "title": "love sick girl",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR38.ogg",
+	  "lyrics": ""		
+    },
+	{
+      "id": 39,
+      "name_category": "GIRL",
+      "title": "love hate me",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR39.ogg",
+      "lyrics": ""
+    },
+	{
+      "id": 40,
+      "name_category": "GIRL",
+      "title": "solo",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR40.ogg",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 41,
+      "name_category": "GIRL",
+      "title": "kill this love",
+      "image": "file:///android_asset/image/GR.png",
+      "link_mp3": "mp3/GBPOR41.ogg",
+      "lyrics": "<p></p>"
+    }
+  ]
+}
