@@ -1,0 +1,220 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/ST.png"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/SL.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "Ngamen 2",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK1.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "TERBARU",
+    "title": "Tau tatu",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "TERBARU",
+    "title": "Tepung kanji",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "TERBARU",
+    "title": "Joko tingkir",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "TERBARU",
+    "title": "Pecah seribu",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "TERBARU",
+    "title": "Tamu Undangan",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "TERBARU",
+    "title": "Ojo dibandingke",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "TERBARU",
+    "title": "Cidro 3",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "TERBARU",
+    "title": "Kesucian ati",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "TERBARU",
+    "title": "Tiara",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "TERBARU",
+    "title": "Gerhana dalam cinta",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "TERBARU",
+    "title": "7 Samudra",
+    "image": "file:///android_asset/image/ST.png",
+    "link_mp3": "mp3/SULOTIK12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "LENGKAP",
+    "title": "Bila nanti",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "LENGKAP",
+    "title": "Duri duri",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "LENGKAP",
+    "title": "Janjine",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "LENGKAP",
+    "title": "Lungset",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "LENGKAP",
+    "title": "Melepas lajang",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "LENGKAP",
+    "title": "Ngelebur langit",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "LENGKAP",
+    "title": "Pikir keri",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "LENGKAP",
+    "title": "Sugeng ndalu",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "LENGKAP",
+    "title": "Tatu tatu",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "LENGKAP",
+    "title": "Teteg ati",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "LENGKAP",
+    "title": "Kelangan",
+    "image": "file:///android_asset/image/SL.png",
+    "link_mp3": "mp3/SULOTIK23.ogg",
+    "lyrics": ""
+  }
+  ]
+}
