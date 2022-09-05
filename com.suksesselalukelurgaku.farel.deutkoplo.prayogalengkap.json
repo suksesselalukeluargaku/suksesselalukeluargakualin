@@ -1,0 +1,244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "DUET",
+    "image": "file:///android_asset/image/DF.png"
+  },
+    {
+      "id": 2,
+      "name_category": "FAREL",
+      "image": "file:///android_asset/image/SF.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "DUET",
+    "title": "Ngamen 2",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL1.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "DUET",
+    "title": "Ojo dibandingke",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL2.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "DUET",
+    "title": "Joko tingkir",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL3.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "DUET",
+    "title": "Gerhana dalam cinta",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL4.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "DUET",
+    "title": "Pecah seribu",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL5.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "DUET",
+    "title": "Tau tatu",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL6.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "DUET",
+    "title": "Full senyum sayang",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL7.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "DUET",
+    "title": "Dermaga biru",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL8.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "DUET",
+    "title": "Salam tresno",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL9.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "DUET",
+    "title": "Tepung kanji",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL10.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "DUET",
+    "title": "Gerhana dalam cinta",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL11.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "DUET",
+    "title": "Luka sekarat rasa",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL12.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "DUET",
+    "title": "Ojo dibandingk Tacik",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL13.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "DUET",
+    "title": "Oplosan",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "DUET",
+    "title": "Sawangen",
+    "image": "file:///android_asset/image/DF.png",
+    "link_mp3": "mp3/DWFPL15.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "FAREL",
+    "title": "Tugiman",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "FAREL",
+    "title": "Ojo dibandingke",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "FAREL",
+    "title": "Tiara",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "FAREL",
+    "title": "Joko tingir",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL19.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "FAREL",
+    "title": "Dermaga biru",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "FAREL",
+    "title": "Aku ingin bahagia",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "FAREL",
+    "title": "Aku ngamen",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL22.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "FAREL",
+    "title": "Cidro 3",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL23.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "FAREL",
+    "title": "Kanggo riko",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "FAREL",
+    "title": "Full senyum sayang",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "FAREL",
+    "title": "Satru 2",
+    "image": "file:///android_asset/image/SF.png",
+    "link_mp3": "mp3/DWFPL26.mp3",
+    "lyrics": ""
+  }
+  ]
+}
