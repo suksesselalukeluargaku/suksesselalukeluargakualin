@@ -1,0 +1,220 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "DJ SHOLAWAT",
+    "image": "file:///android_asset/image/DJH.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT REMIX",
+      "image": "file:///android_asset/image/SHR.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "DJ SHOLAWAT",
+    "title": "DZUKTU WALAN ATAKHOLA",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ1.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "DJ SHOLAWAT",
+    "title": "YASIR LANA",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "DJ SHOLAWAT",
+    "title": "LABBAIKA INNAL HAMDALAK",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "DJ SHOLAWAT",
+    "title": "MAN ANA",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "DJ SHOLAWAT",
+    "title": "BILQURANI SAAMDHI",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "DJ SHOLAWAT",
+    "title": "IQROUL QURAN",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "DJ SHOLAWAT",
+    "title": "YA TARIM",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "DJ SHOLAWAT",
+    "title": "YA SAYYIDI",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "DJ SHOLAWAT",
+    "title": "ALLAH ALLAH AGHISNA",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "DJ SHOLAWAT",
+    "title": "SADUNA FIDDUNYA",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "DJ SHOLAWAT",
+    "title": "ALLAHUL KAFI",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "DJ SHOLAWAT",
+    "title": "SABEN MALEM JUMAT",
+    "image": "file:///android_asset/image/DJH.jpg",
+    "link_mp3": "mp3/SHIREMDJ12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "ADFAITA",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "HUWANNUR",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "ITIROF",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "LIR ILIR",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "QADUKKA AL MAYYAS",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "SABEN MALEM JUMAT",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "SYAIKHONA",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "WAQTU ASHA",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "YA RASULULLAH",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "YA ROBBANA ATAROFNA",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "SHOLAWAT REMIX",
+    "title": "AHMAD YA HABIBI",
+    "image": "file:///android_asset/image/SHR.jpg",
+    "link_mp3": "mp3/SHIREMDJ23.ogg",
+    "lyrics": ""
+  }
+  ]
+}
