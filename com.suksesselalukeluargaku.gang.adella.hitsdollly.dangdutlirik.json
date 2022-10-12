@@ -1,0 +1,252 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "ADELLA KOPLO",
+    "image": "file:///android_asset/image/.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "ADELLA DUET",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "ADELLA DUET",
+    "title": "GANG DOLLY",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA1.ogg",
+    "lyrics": "<p>Tak parani onok Koji<br />Jarene wes pindah Dolly<br />Age-age tak tututi<br />Jare wes nang Kalisari</p><p><br />Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo aku<br />Njegur ing lokalisasi</p><p><br />Getunku kepati-pati<br />Wes ngrumangsani njalari<br />Piye wae tak goleki<br />Ning rangerti nang endi</p><p><br />Tak parani onok Koji<br />Jarene wes pindah Dolly<br />Age-age tak tututi<br />Jare wes nang Kalisari</p><p><br />Tak parani ono Koji<br />Jarene wes pindah Dolly<br />Age-age tak tututi<br />Jarene nang Kalisari</p><p><br />Guyangan mbaben lan bayanan<br />Kabeh wis tak lajahi<br />Ora mikiri melayang<br />Lungomu menyang endi<br />Ndang bali</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "ADELLA DUET",
+    "title": "MISTER MDEM",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA2.ogg",
+    "lyrics": "<p>Aku wis kondho, ciu marakke ciloko<br />Aku wis matur, mensen ning omongan nglantur<br />Wis tak kandani, yen vodka marakke lali<br />Bacut ngunjuk bir, kakean dadine kenthir</p><p><br />Ora tak gagas, penting sih iso tuku beras<br />Ora tak anggep, penting anak bojo wareg<br />Ojo' muna-muni, nuturi koyo kiai<br />Ditokke wae, yen klenger wis ndlosor dewe</p><p><br />Ra keno tak kandani, yen ngono aku ra sudi<br />Lilakno aku bali, wong tuwaku kuat ngingoni<br />Ojo cekak atimu, wis tak cukupke lelakonku<br />Pancene bener kandamu mergo mendem ngrusak awakku<br />Yen wis mari, konco-konco dipamiti</p><p><br />Sukur bage, mendem do ditinggalake<br />Selamat tinggal, kancaku lereno ndugal<br />Dongakno kuat, mendemku wis ora kumat</p><p><br />Aku wis kondho, ciu marakke ciloko<br />Aku wis matur, mensen ning omongan nglantur<br />Wis tak kandani, yen vodka marakke lali<br />Bacut ngunjuk bir, kakean dadine kenthir</p><p><br />Ora tak gagas, penting sih iso tuku beras<br />Ora tak anggep, penting anak bojo wareg<br />Ojo' muna-muni, nuturi koyo kiai<br />Ditokke wae, yen klenger wis ndlosor dewe</p><p><br />Ra keno tak kandani, yen ngono aku ra sudi<br />Lilakno aku bali, wong tuwaku kuat ngingoni<br />Ojo cekak atimu, wis tak cukupke lelakonku<br />Pancene bener kandamu mergo mendem ngrusak awakku<br />Yen wis mari, konco-konco dipamiti</p><p><br />Sukur bage, mendem do ditinggalake<br />Selamat tinggal, kancaku lereno ndugal<br />Dongakno kuat, mendemku wis ora kumat</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "ADELLA KOPLO",
+    "title": "RUNTAH",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA3.ogg",
+    "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga s&eacute;tan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p>&nbsp;</p><p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gblg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "ADELLA DUET",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA4.ogg",
+    "lyrics": "<p>Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Jelas Bedo Yen Dibandingke<br />Ora Ono Sing Tak Pamerke<br />Aku Raiso Yen Kon Gawe Gawe<br />Jujur Sak Onone</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "ADELLA DUET",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA5.ogg",
+    "lyrics": "<p>Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga<br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "ADELLA DUET",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "ADELLA DUET",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA7.ogg",
+    "lyrics": "<p>(Difarina Indra)<br />Deraian demi deraian air mata<br />Kupeluk mesra saat kita berpisah<br />Satu yang kupinta, setialah padaku<br />Hanya dirimu kucinta</p><p><br />(Fendik)<br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu sayangku<br />(Difarina Indra &amp; Fendik)<br />Dermaga biru saksi bisu</p><p><br />(Difarina Indra)<br />Walaupun ku terlanjur saying<br />Meninggalkan dia yang kucinta<br />Namun hatiku terasa berat<br />Pahit manisnya kutelan jua</p><p><br />(Fendik)<br />Tiada satu yang terindah<br />Selain dirimu yang kusayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />(Fendik)<br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu sayangku<br />(Fendik &amp; Difarina Indra)<br />Dermaga biru saksi bisu</p><p><br />(Difarina Indra)<br />Walaupun ku terlanjur saying<br />Meninggalkan dia yang kucinta<br />Namun hatiku terasa berat<br />Pahit manisnya kutelan jua</p><p><br />(Fendik)<br />Tiada satu yang terindah<br />Selain dirimu yang kusayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p>(Fendik)<br />Sabarlah adindaku<br />Pasti kukembali</p><p><br />(Difarina Indra)<br />Sabarlah oh kasihku<br />Pasti kukembali</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "ADELLA KOPLO",
+    "title": "KESUCIAN ATI",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA8.ogg",
+    "lyrics": "<p>Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki<br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki<br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki<br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p>Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati<br />Kesucian ati</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "ADELLA KOPLO",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA9.ogg",
+    "lyrics": "<p>Dalane rame, atiku sepi<br />Angen-angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman, sempet sayang, kok malah ngilang</p><p><br />Meh lungo angel, bertahan loro<br />Nyobo selalu ono meski koe ra ono roso<br />Roso sing jebul tak rasakke dewe<br />Kebacut sayang, ngek i harapan, koe milih liyane</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae<br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku</p><p><br />Koyo biasane, bagian sing nglarani aku</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "ADELLA DUET",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA10.ogg",
+    "lyrics": "<p>Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane<br />Wes tak pupuk winihe katresnanku, kanggo awakmu<br />Dunoku tuku lemu urip ayem kanggo senengmu</p><p><br />Aku percoyo winih tresnamu, nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Aku ngenteni, aku ngertenimu huooo<br />Huoo... opo kurang lehku, ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu<br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "ADELLA DUET",
+    "title": "KOYO JOGJA ISTIMEWA",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA11.ogg",
+    "lyrics": "<p>mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />rasah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong kang lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />ra usah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "ADELLA KOPLO",
+    "title": "TKW",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA12.ogg",
+    "lyrics": "<p>Kala ku negri orang<br />Berjumpa dengan seorang wanita<br />Parasnya cantik, aduhai sangat menggoda<br />Kusapa dia tiada curiga</p><p><br />Kucoba tuk mendekati<br />Senyum simpulnya tak menaruh benci<br />Berbasa basi kumengenalkan dirinya<br />Dia TKW cantik jelita</p><p><br />Tenaga kerja wanita jauh di mancanegara<br />Asal punya ketrampilan oke saja<br />Tenaga kerja wanita jauh di mancanegara<br />Kaulah srikandi tumpuan keluarga</p><p><br />Pabila kau pulang di kampung halaman<br />kecantikanmu akan selalu di kenang<br />Kucoba tuk mendekati senyum simpulnya tak menaruh benci<br />Berbasa basi kumengenalkan dirinya</p><p><br />Dia TKW cantik jelita<br />Disana beda bahasa juga berbeda budaya<br />Lindungilah dirimu iman dan taqwa<br />Jagalah martabat bangsa jujur syarat yang utama</p><p><br />Ingatlah engkau pahlawan devisa<br />Pabila kau pulang di kampung halaman<br />Kecantikanmu akan selalu dikenang</p><p><br />Kala ku negri orang<br />Berjumpa dengan seorang wanita<br />Parasnya cantik, aduhai sangat menggoda<br />Kusapa dia tiada curiga</p><p><br />Kucoba tuk mendekati<br />Senyum simpulnya tak menaruh benci<br />Berbasa basi kumengenalkan dirinya</p><p><br />Dia TKW cantik jelita<br />Dia TKW cantik jelita</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "ADELLA KOPLO",
+    "title": "FULL SENYUM",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA13.ogg",
+    "lyrics": "<p>Bukane aku ora peduli<br />Tapi pancen kodemu angel dipahami<br />Ngomongo wae kabeh opo anane<br />Ben podo penake</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung, ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino, raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo, sing full senyum sayang, (ha-ha-ha)<br />Ben aku semangat berjuang, (ha-ha-ha)<br />Ojo nuruti gengsimu<br />Jelas-jelas, aku ndak mampu</p><p><br />Mbok yo, sing full senyum sayang, (ha-ha-ha)<br />Ben aku soyo tambah sayang, (ha-ha-ha)<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p>&nbsp;</p><p>Saben dino, raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo, sing full senyum sayang, (ha-ha-ha)<br />Ben aku semangat berjuang, (ha-ha-ha)<br />Ojo nuruti gengsimu<br />Jelas-jelas, aku ndak mampu</p><p><br />mbok yo, sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing<br />Ayo kita healing</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "ADELLA KOPLO",
+    "title": "INFONE MASE",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "ADELLA KOPLO",
+    "title": "KOK ISO YO",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA15.ogg",
+    "lyrics": "<p>Kok iso yo?<br />Kok tegel yo?<br />Opo salahku?<br />Ning endi luputku?<br />Wong sing ra sepiro<br />Koyo aku iki<br />Masalah asmoro, mung kebagian loro</p><p><br />Ditinggal lungo, alesan ra cetho<br />Mergo ngaboti tresno anyarmu sing liyo<br />Gusti, tulung paringono<br />Ati sing kuat (ati sing kuat)<br />Kanggo ngadepi asmoro ugal-ugalan</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing loro ning atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo<br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo?<br />Kok tegel yo?<br />Wong koyo aku<br />Masalah asmoro, mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem pituringan loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo<br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo?<br />Kok tegel yo?<br />Wong koyo aku<br />Masalah asmoro, mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem pituringan loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo<br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "ADELLA KOPLO",
+    "title": "ASMARA",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "ADELLA DUET",
+    "title": "1 ATAU 2",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "ADELLA DUET",
+    "title": "CINTA TAK TERPISAHKAN",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "ADELLA DUET",
+    "title": "DALAM GELAKKU MENANGIS",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA19.ogg",
+    "lyrics": "<p>Hilang kasih hilanglah sayang<br />Hilang rindu hampa dihati<br />Sejak kau pergi tinggalkan aku<br />Tanpa alasan engkau berlalu</p><p><br />Hingga hati bertanya tanya<br />Sebab apa dikau berlalu<br />Adakah salah ku pada dirimu<br />Sampai saat ini aku tak tahu</p><p><br />Tiada mendung hujan pun turun<br />Panas terik aku kedinginan<br />Seperti itu diriku<br />Rasa bersalah tidakku tahu</p><p><br />Bukannya mimpi tapi tlah nyata<br />Bertahun-tahun diriku tersiksa<br />Didalam gelap aku menangis<br />Bayangan kasih slalu mendatang</p><p><br />Hingga hati bertanya tanya<br />Sebab apa dikau berlalu<br />Adakah salah ku pada dirimu<br />Sampai saat ini aku tak tahu</p><p><br />Tiada mendung hujan pun turun<br />Panas terik aku kedinginan</p><p><br />Seperti itu diriku kini<br />Rasa bersalah tidakku tahu</p><p><br />Bukannya mimpi tapi tlah nyata<br />Bertahun-tahun diriku tersiksa<br />Didalam gelap aku menangis<br />Bayangan kasih slalu mendatang</p>"
+  },
+  {
+    "id": 20,
+    "name_category": "ADELLA DUET",
+    "title": "KARMILA",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "ADELLA DUET",
+    "title": "NAGIH JANJI",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "ADELLA DUET",
+    "title": "OJO NESU NESU",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "ADELLA DUET",
+    "title": "PANTAI KLAYAR",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "ADELLA DUET",
+    "title": "SAYANG",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "ADELLA DUET",
+    "title": "TUGIMAN",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA25.ogg",
+    "lyrics": "<p>Piye kabare idamanku<br />Wis seminggu ra sabar ngerti senyummu<br />Maem terus ngopi dandan rapi<br />Ra lali minyake wangi</p><p><br />Tenan sampean idaman<br />Metu ko omah dadi rebutan<br />Sabar ora jual mahal<br />Yen kok jak dolan langsung gas budal</p><p><br />Pak e Buk e iku pilihanku<br />Tulung lamarke nggo aku<br />Yen ra dekne mending aku Dewe<br />Ra kowe ora wae</p><p><br />Tukang gawe nyaman (Tugiman)<br />Kang nggawe nyaman (Tugiman)<br />Kang nggawe ati wong nyaman</p><p><br />Tukang gawe nyaman (Tugiman)<br />Kang nggawe nyaman (Tugiman)<br />Kang nggawe ati wong nyaman</p><p><br />Piye kabare idamanku<br />Wis seminggu ra sabar ngerti senyummu<br />Maem terus ngopi dandan rapi<br />Ra lali minyake wangi</p><p><br />Tenan sampean idaman<br />Metu ko omah dadi rebutan<br />Sabar ora jual mahal<br />Yen kok jak dolan langsung gas budal</p><p><br />Pak e Buk e iku pilihanku<br />Tulung lamarke nggo aku<br />Yen ra dekne mending aku dewe<br />Ra kowe ora wae</p><p><br />Tukang gawe nyaman (Tugiman)<br />Kang gawe nyaman (Tugiman)<br />Kang nggawe ati wong nyaman</p><p>Tukang gawe nyaman (Tugiman)<br />Kang gawe nyaman (Tugiman)<br />Kang nggawe ati wong nyaman</p><p><br />Pak e Buk e iku pilihanku<br />Tulung lamarke nggo aku<br />Yen ra dekne mending aku dewe<br />Ra kowe ora wae</p><p>Tukang gawe nyaman (Tugiman)<br />Kang gawe nyaman (Tugiman)<br />Kang nggawe ati wong nyaman</p><p><br />Tukang gawe nyaman (Tugiman)<br />Kang gawe nyaman (Tugiman)<br />Kang nggawe ati wong nyaman</p>"
+  },
+  {
+    "id": 26,
+    "name_category": "ADELLA KOPLO",
+    "title": "SIMPANG 5 NAGIH JANJI",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "ADELLA KOPLO",
+    "title": "TANGISE SARANGAN",
+    "image": "file:///android_asset/image/.jpg",
+    "link_mp3": "mp3/LYDELGA27.ogg",
+    "lyrics": ""
+  }
+  ]
+}
