@@ -30,8 +30,8 @@
 // UNITY      backup startapp
 // TAPDAQ     backup unity backup startapp
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "",
+"PENGATURAN_IKLAN_INTER" : "",
 "INTER_COUNT" : 3,
 
 "ADMOB_INTER" : "",
